@@ -1,0 +1,259 @@
+{
+ "provas": [
+  {
+   "esquema": "prova/1",
+   "id": "M1",
+   "nome": "Transporte de Pneus",
+   "dia": "Dia 1",
+   "fonte": {
+    "arquivo": "conteudo/fira/regulamentos/[Prova M1] - FIRA Missão Impossível - Dia 1 - Transporte de Pneus.pdf",
+    "transcricao": "inventario_fira/regulamentos (pasta do projeto), feita em 28/10/2026",
+    "ano_no_texto": null
+   },
+   "categorias": null,
+   "objetivo": "Conduzir o robô pelo percurso superando os obstáculos e transportar o maior número possível de pneus até a área de chegada.",
+   "quantidade_robos": 1,
+   "autonomo": null,
+   "limite_robo": {
+    "largura_mm": 148,
+    "comprimento_mm": 210,
+    "altura_mm": "não definido no regulamento",
+    "texto": "Dimensões máximas equivalentes a meia folha A4 (148 mm × 210 mm). Não há restrição quanto ao formato do robô."
+   },
+   "tempo_s": 90,
+   "tempo_texto": "Um minuto e trinta segundos máximos.",
+   "objetos": [
+    "3 pneus empilhados"
+   ],
+   "restricoes_de_montagem": [
+    {
+     "texto": "Os pneus podem ser empurrados, puxados ou carregados pelo robô.",
+     "secao": "Regras para os Pneus"
+    },
+    {
+     "texto": "Cada pneu pode ficar no máximo 50% do volume dentro da estrutura do robô; acima disso não conta.",
+     "secao": "Regras para os Pneus"
+    },
+    {
+     "texto": "O robô começa completamente sobre a área da fita verde.",
+     "secao": "Procedimento de Início"
+    },
+    {
+     "texto": "Se 50% ou mais do robô passar da borda preta, a tentativa termina.",
+     "secao": "Limites da Arena"
+    }
+   ],
+   "pontuacao": [
+    {
+     "texto": "Cada linha de progressão ultrapassada (todo o robô além da linha): 25 pontos.",
+     "secao": "Pontuação por Percurso"
+    },
+    {
+     "texto": "Alcançar a área de chegada (linha vermelha): 50 pontos.",
+     "secao": "Pontuação por Percurso"
+    },
+    {
+     "texto": "Pneus empilhados tocando a linha vermelha no fim: 1 pneu 50, 2 pneus 100, 3 pneus 200 pontos.",
+     "secao": "Pontuação por Transporte de Pneus"
+    }
+   ],
+   "desempate": [
+    "Menor tempo de execução.",
+    "Maior quantidade de pneus transportados.",
+    "Procedimento definido pela arbitragem."
+   ]
+  },
+  {
+   "esquema": "prova/1",
+   "id": "M2",
+   "nome": "Dois Robôs, Cubos e Esferas",
+   "dia": "Dia 2",
+   "fonte": {
+    "arquivo": "conteudo/fira/regulamentos/[Prova M2] - FIRA Missão Impossível - Dia 2 (U-14 e U-19) - Dois Robôs Cubos e Esferas.pdf",
+    "transcricao": "inventario_fira/regulamentos (pasta do projeto), feita em 28/10/2026",
+    "ano_no_texto": null,
+    "observacao": "Título interno do PDF: \"Documento sem título\"."
+   },
+   "categorias": [
+    "U-14",
+    "U-19"
+   ],
+   "objetivo": "Dois robôs recolhem cubos e bolas de um ponto e transportam para outro ponto específico.",
+   "quantidade_robos": 2,
+   "autonomo": null,
+   "limite_robo": {
+    "largura_mm": 200,
+    "comprimento_mm": 200,
+    "altura_mm": "não definido no regulamento",
+    "texto": "Dois robôs de até 20x20 cm."
+   },
+   "tempo_s": 180,
+   "tempo_texto": "Até 3 minutos.",
+   "objetos": [
+    "cubos",
+    "esferas",
+    "quadrados vermelhos (estacionamento e depósito)"
+   ],
+   "restricoes_de_montagem": [
+    {
+     "texto": "Os robôs começam no início do labirinto.",
+     "secao": "Regras"
+    },
+    {
+     "texto": "A pontuação de uma etapa só conta quando os dois robôs concluem a mesma etapa.",
+     "secao": "Regras"
+    },
+    {
+     "texto": "Coleta e descarga só contam quando os dois robôs coletam o mesmo tipo de item.",
+     "secao": "Regras"
+    },
+    {
+     "texto": "Esferas e cubos vão para os quadrados vermelhos, o mesmo lugar do estacionamento.",
+     "secao": "Regras"
+    }
+   ],
+   "pontuacao": [
+    {
+     "texto": "Coleta: esfera 10, cubo 20 pontos.",
+     "secao": "Pontuação"
+    },
+    {
+     "texto": "Depósito: esfera 30, cubo 20 pontos.",
+     "secao": "Pontuação"
+    },
+    {
+     "texto": "Bônus: cada robô com pelo menos um cubo e uma esfera, +30 pontos.",
+     "secao": "Pontuação"
+    },
+    {
+     "texto": "Final: ambos os robôs dentro dos quadrados vermelhos, 50 pontos.",
+     "secao": "Pontuação"
+    }
+   ],
+   "desempate": []
+  },
+  {
+   "esquema": "prova/1",
+   "id": "M3",
+   "nome": "Argolas e Clipes nas Caixas",
+   "dia": "Dia 2",
+   "fonte": {
+    "arquivo": "conteudo/fira/regulamentos/[Prova M3] - FIRA Missão Impossível - Dia 2 - Argolas e Clipes nas Caixas.pdf",
+    "transcricao": "inventario_fira/regulamentos (pasta do projeto), feita em 28/10/2026",
+    "ano_no_texto": null
+   },
+   "categorias": null,
+   "objetivo": "Posicionar argolas ou clipes nos suportes horizontais sobre as caixas distribuídas na arena.",
+   "quantidade_robos": 1,
+   "autonomo": null,
+   "limite_robo": {
+    "largura_mm": 200,
+    "comprimento_mm": 200,
+    "altura_mm": "não definido no regulamento",
+    "texto": "Dimensão de no máximo 20x20 cm."
+   },
+   "tempo_s": 120,
+   "tempo_texto": "2 minutos de execução.",
+   "objetos": [
+    "3 estações: caixa de leite, haste horizontal (palito), argolas com clipes"
+   ],
+   "restricoes_de_montagem": [
+    {
+     "texto": "Pode transportar uma ou mais argolas com clipes ao mesmo tempo.",
+     "secao": "Robô"
+    },
+    {
+     "texto": "É permitido lançar, posicionar, empurrar ou depositar as argolas.",
+     "secao": "Robô"
+    },
+    {
+     "texto": "O item só vale se estiver sustentado pela haste e não apoiado pelo robô; só um item por haste.",
+     "secao": "Validação da Pontuação"
+    },
+    {
+     "texto": "Se o robô derrubar uma haste, a estação sai do jogo.",
+     "secao": "Penalidades"
+    },
+    {
+     "texto": "Sem interferência manual depois do início.",
+     "secao": "Penalidades"
+    },
+    {
+     "texto": "As posições das estações variam conforme a categoria.",
+     "secao": "Arena"
+    }
+   ],
+   "pontuacao": [
+    {
+     "texto": "Argola posicionada na haste: 50 pontos.",
+     "secao": "Pontuação"
+    },
+    {
+     "texto": "Clipe posicionado na haste: 100 pontos.",
+     "secao": "Pontuação"
+    },
+    {
+     "texto": "Robô retornar ao ponto de partida: 100 pontos.",
+     "secao": "Pontuação"
+    },
+    {
+     "texto": "Pontuação máxima: 400 pontos.",
+     "secao": "Pontuação"
+    }
+   ],
+   "desempate": [
+    "Menor tempo para atingir a pontuação obtida.",
+    "Maior quantidade de argolas válidas posicionadas consecutivamente sem erro.",
+    "Nova tentativa de desempate, se necessário."
+   ]
+  },
+  {
+   "esquema": "prova/1",
+   "id": "M4",
+   "nome": "Palito entre copos",
+   "dia": null,
+   "fonte": {
+    "arquivo": "conteudo/fira/regulamentos/[Prova M4] - PROVA MI DIA 16 DE MARÇO FIRA BACABL 2026 U14.pdf",
+    "transcricao": "inventario_fira/regulamentos (pasta do projeto), feita em 28/10/2026",
+    "ano_no_texto": "2026",
+    "observacao": "Etapa Maranhão (Bacabal). Título interno do PDF diz \"FIRA MA 2025\": conflito de ano."
+   },
+   "categorias": [
+    "U14"
+   ],
+   "objetivo": "Retirar um palito de dente deitado sobre um copo e levar até o outro copo, a 2 m, sem deixar o palito tocar o chão; depositar dentro do copo e se afastar mais de 15 cm.",
+   "quantidade_robos": 1,
+   "autonomo": true,
+   "limite_robo": {
+    "largura_mm": 250,
+    "comprimento_mm": 250,
+    "altura_mm": 250,
+    "texto": "Dimensões máximas de 25 cm x 25 cm x 25 cm."
+   },
+   "tempo_s": 120,
+   "tempo_texto": "Chance única de até 2 min.",
+   "objetos": [
+    "2 copos descartáveis de 150 ml (não fixos)",
+    "palito de dente"
+   ],
+   "restricoes_de_montagem": [
+    {
+     "texto": "Nenhum copo pode cair; se cair, fim de prova.",
+     "secao": "Regras"
+    },
+    {
+     "texto": "Os copos não podem se deslocar mais que 5 cm; se passar disso, fim de prova.",
+     "secao": "Regras"
+    },
+    {
+     "texto": "O robô deve largar o palito no copo e se afastar mais de 15 cm.",
+     "secao": "Missão"
+    }
+   ],
+   "pontuacao": [],
+   "desempate": [
+    "O tempo é critério de desempate."
+   ]
+  }
+ ]
+}

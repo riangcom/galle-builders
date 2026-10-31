@@ -27,3 +27,11 @@ No navegador embutido (desktop): as três telas carregam, busca (nome e código)
 - Fluxo de atualização: subir VERSAO, reabrir, ver a faixa, tocar e conferir a versão no rodapé.
 - Retrato e paisagem, tamanho de toque e fonte, contraste em tela real; iPhone.
 - Tamanho do pacote offline (RNF-04): hoje só shell e 3 JSON, pequeno; medir quando entrarem imagens e 3D.
+
+## 0.2.0-onda3 (31/10/2026): catálogo unificado e provas FIRA
+- Telas: Início (`#/`), **Peças** (`#/pecas`, 3 kits juntos, botões de kit, busca, função e cor), **Detalhe da peça** (`#/peca/<id>`), **Provas** (`#/provas` e `#/prova/M1`...), Montagens (= Laboratório, `#/lab`). Links antigos `#/kit/<kit>` abrem Peças só com aquele kit.
+- Dados: `dados/catalogo.json` e `dados/provas.json`, gerados por `sincronizar_dados.py` (a partir de `..\dados\pecas\catalogo.json` e `..\dados\fira\provas\`). Os JSON por kit antigos ficam na pasta, sem uso.
+- Sem campo "contada" (não há contagem de maleta) e sem aviso de série do Essential no catálogo (decisões de 31/10).
+- Kits marcados ficam guardados só no aparelho (localStorage); se o navegador limpar, volta ao padrão EV3 + Prime.
+- Testado no Chromium (celular 390 px e tablet 820 px): telas, busca, filtros, links antigos e modo offline sem erros no console. **Falta testar no iPad A16 e no Samsung.**
+- Publicação: o repositório público `riangcom/galle-builders` recebe a pasta `app\` (fotos com rostos de alunos pixelados e sem metadados).

@@ -1,0 +1,4816 @@
+{
+ "esquema": "catalogo/1",
+ "data_geracao": "2026-10-31",
+ "kits": {
+  "45544": {
+   "nome": "EV3",
+   "pecas": 542,
+   "linhas": 102
+  },
+  "45678": {
+   "nome": "SPIKE Prime",
+   "pecas": 519,
+   "linhas": 100
+  },
+  "45345": {
+   "nome": "SPIKE Essential",
+   "pecas": 432,
+   "linhas": 112
+  }
+ },
+ "quantidade": "Quantidade da lista do kit (Rebrickable), sem sobressalentes. Não há contagem de maleta (decisão do Rian, 31/10/2026).",
+ "total_itens": 279,
+ "pecas": [
+  {
+   "id": "11145-preto",
+   "codigo": "11145",
+   "cor": "Preto",
+   "nome_pt": "Cabo 25 cm EV3",
+   "nome_en": "Cable, Connector, 25cm for EV3",
+   "funcao": "cabo",
+   "funcao_fonte": "Rebrickable part_categories + palavra do nome",
+   "categoria_rebrickable": "Electronics",
+   "kits": {
+    "45544": 4
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "55805-preto",
+   "codigo": "55805",
+   "cor": "Preto",
+   "nome_pt": "Cabo 35 cm EV3",
+   "nome_en": "Cable, Connector, 35cm for NXT",
+   "funcao": "cabo",
+   "funcao_fonte": "Rebrickable part_categories + palavra do nome",
+   "categoria_rebrickable": "Electronics",
+   "kits": {
+    "45544": 2
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "55806-preto",
+   "codigo": "55806",
+   "cor": "Preto",
+   "nome_pt": "Cabo 50 cm EV3",
+   "nome_en": "Cable, Connector, 50cm for NXT",
+   "funcao": "cabo",
+   "funcao_fonte": "Rebrickable part_categories + palavra do nome",
+   "categoria_rebrickable": "Electronics",
+   "kits": {
+    "45544": 1
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "10916-preto",
+   "codigo": "10916",
+   "cor": "Preto",
+   "nome_pt": "Cabo USB EV3",
+   "nome_en": "Cable, USB, 2m for EV3",
+   "funcao": "cabo",
+   "funcao_fonte": "Rebrickable part_categories + palavra do nome",
+   "categoria_rebrickable": "Electronics",
+   "kits": {
+    "45544": 1
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "39881-branco",
+   "codigo": "39881",
+   "cor": "Branco",
+   "nome_pt": "Cabo USB SPIKE",
+   "nome_en": "Cable, USB, SPIKE / Mindstorms Robot Inventor",
+   "funcao": "cabo",
+   "funcao_fonte": "Rebrickable part_categories + palavra do nome",
+   "categoria_rebrickable": "Electronics",
+   "kits": {
+    "45678": 1,
+    "45345": 1
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "3713-cinza-claro",
+   "codigo": "3713",
+   "cor": "Cinza claro",
+   "nome_pt": "Bucha",
+   "nome_en": "Technic Bush",
+   "funcao": "conector",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Bushes",
+   "kits": {
+    "45544": 10,
+    "45678": 10
+   },
+   "impressa": false,
+   "ldraw": "3713.dat",
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "3713-vermelho",
+   "codigo": "3713",
+   "cor": "Vermelho",
+   "nome_pt": "Bucha",
+   "nome_en": "Technic Bush",
+   "funcao": "conector",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Bushes",
+   "kits": {
+    "45345": 8
+   },
+   "impressa": false,
+   "ldraw": "3713.dat",
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "32013-branco",
+   "codigo": "32013",
+   "cor": "Branco",
+   "nome_pt": "Conector angular nº 1",
+   "nome_en": "Technic Axle and Pin Connector Angled #1",
+   "funcao": "conector",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Connectors",
+   "kits": {
+    "45345": 4
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "32013-cinza-claro",
+   "codigo": "32013",
+   "cor": "Cinza claro",
+   "nome_pt": "Conector angular nº 1",
+   "nome_en": "Technic Axle and Pin Connector Angled #1",
+   "funcao": "conector",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Connectors",
+   "kits": {
+    "45678": 5
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "32013-preto",
+   "codigo": "32013",
+   "cor": "Preto",
+   "nome_pt": "Conector angular nº 1",
+   "nome_en": "Technic Axle and Pin Connector Angled #1",
+   "funcao": "conector",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Connectors",
+   "kits": {
+    "45544": 4
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "32034-preto",
+   "codigo": "32034",
+   "cor": "Preto",
+   "nome_pt": "Conector angular nº 2 (180°)",
+   "nome_en": "Technic Axle and Pin Connector Angled #2 - 180°",
+   "funcao": "conector",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Connectors",
+   "kits": {
+    "45544": 4,
+    "45678": 5
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "32192-branco",
+   "codigo": "32192",
+   "cor": "Branco",
+   "nome_pt": "Conector angular nº 4 (135°)",
+   "nome_en": "Technic Axle and Pin Connector Angled #4 - 135°",
+   "funcao": "conector",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Connectors",
+   "kits": {
+    "45678": 5
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "32014-amarelo",
+   "codigo": "32014",
+   "cor": "Amarelo",
+   "nome_pt": "Conector angular nº 6 (90°)",
+   "nome_en": "Technic Axle and Pin Connector Angled #6 - 90°",
+   "funcao": "conector",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Connectors",
+   "kits": {
+    "45678": 5
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "32014-preto",
+   "codigo": "32014",
+   "cor": "Preto",
+   "nome_pt": "Conector angular nº 6 (90°)",
+   "nome_en": "Technic Axle and Pin Connector Angled #6 - 90°",
+   "funcao": "conector",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Connectors",
+   "kits": {
+    "45544": 2
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "87082-cinza-claro",
+   "codigo": "87082",
+   "cor": "Cinza claro",
+   "nome_pt": "Conector com 2 pinos",
+   "nome_en": "Technic Pin Connector Hub with 2 Pins with Friction Ridges Lengthwise [Big Squared Pin Holes]",
+   "funcao": "conector",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Connectors",
+   "kits": {
+    "45544": 4,
+    "45678": 2
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "57585-cinza-claro",
+   "codigo": "57585",
+   "cor": "Cinza claro",
+   "nome_pt": "Conector com 3 eixos (120°)",
+   "nome_en": "Technic Axle Connector Hub with 3 Axles at 120°",
+   "funcao": "conector",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Connectors",
+   "kits": {
+    "45544": 2
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "48989-cinza-claro",
+   "codigo": "48989",
+   "cor": "Cinza claro",
+   "nome_pt": "Conector com 4 pinos",
+   "nome_en": "Technic Pin Connector Hub Perpendicular 3L with 4 Pins",
+   "funcao": "conector",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Connectors",
+   "kits": {
+    "45544": 6,
+    "45678": 12
+   },
+   "impressa": false,
+   "ldraw": "48989.dat",
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "55615-cinza-claro",
+   "codigo": "55615",
+   "cor": "Cinza claro",
+   "nome_pt": "Conector com 4 pinos",
+   "nome_en": "Technic Pin Connector Hub Perpendicular 3 x 3 Bent with 4 Pins (Pin Ridges Across Part)",
+   "funcao": "conector",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Connectors",
+   "kits": {
+    "45544": 4,
+    "45678": 4
+   },
+   "impressa": false,
+   "ldraw": "55615.dat",
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "59443-branco",
+   "codigo": "59443",
+   "cor": "Branco",
+   "nome_pt": "Conector de eixo (emenda)",
+   "nome_en": "Technic Axle Connector Smooth [with x Hole + Orientation]",
+   "funcao": "conector",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Connectors",
+   "kits": {
+    "45678": 3
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "59443-vermelho",
+   "codigo": "59443",
+   "cor": "Vermelho",
+   "nome_pt": "Conector de eixo (emenda)",
+   "nome_en": "Technic Axle Connector Smooth [with x Hole + Orientation]",
+   "funcao": "conector",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Connectors",
+   "kits": {
+    "45544": 6,
+    "45345": 4
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "45590-preto",
+   "codigo": "45590",
+   "cor": "Preto",
+   "nome_pt": "Conector de eixo flexível",
+   "nome_en": "Technic Axle Connector Double Flexible [Rubber]",
+   "funcao": "conector",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Connectors",
+   "kits": {
+    "45544": 4,
+    "45678": 6,
+    "45345": 5
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "44809-vermelho",
+   "codigo": "44809",
+   "cor": "Vermelho",
+   "nome_pt": "Conector de pino em L 2x2",
+   "nome_en": "Technic Pin Connector Perpendicular 2 x 2 Bent",
+   "funcao": "conector",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Connectors",
+   "kits": {
+    "45544": 2
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "6536-cinza-claro",
+   "codigo": "6536",
+   "cor": "Cinza claro",
+   "nome_pt": "Conector perpendicular",
+   "nome_en": "Technic Axle and Pin Connector Perpendicular",
+   "funcao": "conector",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Connectors",
+   "kits": {
+    "45544": 8
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "32184-branco",
+   "codigo": "32184",
+   "cor": "Branco",
+   "nome_pt": "Conector perpendicular 3 furos",
+   "nome_en": "Technic Axle and Pin Connector Perpendicular 3L with Centre Pin Hole",
+   "funcao": "conector",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Connectors",
+   "kits": {
+    "45678": 4
+   },
+   "impressa": false,
+   "ldraw": "32184.dat",
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "32184-preto",
+   "codigo": "32184",
+   "cor": "Preto",
+   "nome_pt": "Conector perpendicular 3 furos",
+   "nome_en": "Technic Axle and Pin Connector Perpendicular 3L with Centre Pin Hole",
+   "funcao": "conector",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Connectors",
+   "kits": {
+    "45544": 8
+   },
+   "impressa": false,
+   "ldraw": "32184.dat",
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "42003-cinza-escuro",
+   "codigo": "42003",
+   "cor": "Cinza escuro",
+   "nome_pt": "Conector perpendicular 3 furos (2 de pino)",
+   "nome_en": "Technic Axle and Pin Connector Perpendicular 3L with 2 Pin Holes",
+   "funcao": "conector",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Connectors",
+   "kits": {
+    "45544": 8
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "32291-preto",
+   "codigo": "32291",
+   "cor": "Preto",
+   "nome_pt": "Conector perpendicular duplo",
+   "nome_en": "Technic Axle and Pin Connector Perpendicular Double",
+   "funcao": "conector",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Connectors",
+   "kits": {
+    "45544": 4
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "41678-preto",
+   "codigo": "41678",
+   "cor": "Preto",
+   "nome_pt": "Conector perpendicular duplo aberto",
+   "nome_en": "Technic Axle and Pin Connector Perpendicular Double Split",
+   "funcao": "conector",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Connectors",
+   "kits": {
+    "45544": 4
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "63869-cinza-claro",
+   "codigo": "63869",
+   "cor": "Cinza claro",
+   "nome_pt": "Conector perpendicular triplo",
+   "nome_en": "Technic Axle and Pin Connector Perpendicular Triple",
+   "funcao": "conector",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Connectors",
+   "kits": {
+    "45544": 6
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "32530-vermelho",
+   "codigo": "32530",
+   "cor": "Vermelho",
+   "nome_pt": "Conector placa com 2 furos",
+   "nome_en": "Technic Pin Connector Plate 1 x 2 x 1 2/3 [Two Holes On Top]",
+   "funcao": "conector",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Connectors",
+   "kits": {
+    "45345": 6
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "62462-amarelo",
+   "codigo": "62462",
+   "cor": "Amarelo",
+   "nome_pt": "Conector redondo",
+   "nome_en": "Technic Pin Connector Round [Slotted]",
+   "funcao": "conector",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Connectors",
+   "kits": {
+    "45678": 2
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "62462-cinza-claro",
+   "codigo": "62462",
+   "cor": "Cinza claro",
+   "nome_pt": "Conector redondo",
+   "nome_en": "Technic Pin Connector Round [Slotted]",
+   "funcao": "conector",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Connectors",
+   "kits": {
+    "45544": 4
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "32123b-amarelo",
+   "codigo": "32123b",
+   "cor": "Amarelo",
+   "nome_pt": "Meia bucha",
+   "nome_en": "Technic Bush 1/2 Smooth with Axle Hole Semi-Reduced",
+   "funcao": "conector",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Bushes",
+   "kits": {
+    "45544": 10
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "49283-amarelo",
+   "codigo": "49283",
+   "cor": "Amarelo",
+   "nome_pt": "Prendedor de cabo",
+   "nome_en": "Wire Clip with Axle Hole",
+   "funcao": "conector",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Connectors",
+   "kits": {
+    "45678": 3
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "49283-azul",
+   "codigo": "49283",
+   "cor": "Azul",
+   "nome_pt": "Prendedor de cabo",
+   "nome_en": "Wire Clip with Axle Hole",
+   "funcao": "conector",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Connectors",
+   "kits": {
+    "45678": 3
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "49283-azul-celeste",
+   "codigo": "49283",
+   "cor": "Azul celeste",
+   "nome_pt": "Prendedor de cabo",
+   "nome_en": "Wire Clip with Axle Hole",
+   "funcao": "conector",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Connectors",
+   "kits": {
+    "45678": 2
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "49283-magenta",
+   "codigo": "49283",
+   "cor": "Magenta",
+   "nome_pt": "Prendedor de cabo",
+   "nome_en": "Wire Clip with Axle Hole",
+   "funcao": "conector",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Connectors",
+   "kits": {
+    "45678": 3
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "49283-verde",
+   "codigo": "49283",
+   "cor": "Verde",
+   "nome_pt": "Prendedor de cabo",
+   "nome_en": "Wire Clip with Axle Hole",
+   "funcao": "conector",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Connectors",
+   "kits": {
+    "45678": 3
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "49283-vermelho",
+   "codigo": "49283",
+   "cor": "Vermelho",
+   "nome_pt": "Prendedor de cabo",
+   "nome_en": "Wire Clip with Axle Hole",
+   "funcao": "conector",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Connectors",
+   "kits": {
+    "45678": 3
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "85546-amarelo",
+   "codigo": "85546",
+   "cor": "Amarelo",
+   "nome_pt": "Elástico 33 mm",
+   "nome_en": "Technic Rubber Belt Large [33mm ID] [Round Cross Section]",
+   "funcao": "correia",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "String, Bands and Reels",
+   "kits": {
+    "45678": 4,
+    "45345": 4
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "3737-preto",
+   "codigo": "3737",
+   "cor": "Preto",
+   "nome_pt": "Eixo 10",
+   "nome_en": "Technic Axle 10",
+   "funcao": "eixo",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Axles",
+   "kits": {
+    "45544": 2
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "23948-amarelo",
+   "codigo": "23948",
+   "cor": "Amarelo",
+   "nome_pt": "Eixo 11",
+   "nome_en": "Technic Axle 11",
+   "funcao": "eixo",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Axles",
+   "kits": {
+    "45678": 3
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "3708-preto",
+   "codigo": "3708",
+   "cor": "Preto",
+   "nome_pt": "Eixo 12",
+   "nome_en": "Technic Axle 12",
+   "funcao": "eixo",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Axles",
+   "kits": {
+    "45544": 2
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "32062-vermelho",
+   "codigo": "32062",
+   "cor": "Vermelho",
+   "nome_pt": "Eixo 2",
+   "nome_en": "Technic Axle 2 Notched",
+   "funcao": "eixo",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Axles",
+   "kits": {
+    "45544": 10,
+    "45678": 12,
+    "45345": 8
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "4519-amarelo",
+   "codigo": "4519",
+   "cor": "Amarelo",
+   "nome_pt": "Eixo 3",
+   "nome_en": "Technic Axle 3",
+   "funcao": "eixo",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Axles",
+   "kits": {
+    "45678": 10,
+    "45345": 4
+   },
+   "impressa": false,
+   "ldraw": "4519.dat",
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "4519-cinza-claro",
+   "codigo": "4519",
+   "cor": "Cinza claro",
+   "nome_pt": "Eixo 3",
+   "nome_en": "Technic Axle 3",
+   "funcao": "eixo",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Axles",
+   "kits": {
+    "45544": 14
+   },
+   "impressa": false,
+   "ldraw": "4519.dat",
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "6587-dark-tan",
+   "codigo": "6587",
+   "cor": "Dark Tan",
+   "nome_pt": "Eixo 3 com pino de encaixe",
+   "nome_en": "Technic Axle 3 with Stud",
+   "funcao": "eixo",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Axles",
+   "kits": {
+    "45544": 2
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "3705-preto",
+   "codigo": "3705",
+   "cor": "Preto",
+   "nome_pt": "Eixo 4",
+   "nome_en": "Technic Axle 4",
+   "funcao": "eixo",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Axles",
+   "kits": {
+    "45544": 4,
+    "45678": 4,
+    "45345": 3
+   },
+   "impressa": false,
+   "ldraw": "3705.dat",
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "87083-cinza-escuro",
+   "codigo": "87083",
+   "cor": "Cinza escuro",
+   "nome_pt": "Eixo 4 com batente",
+   "nome_en": "Technic Axle 4 with Stop",
+   "funcao": "eixo",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Axles",
+   "kits": {
+    "45544": 2
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "32073-cinza-claro",
+   "codigo": "32073",
+   "cor": "Cinza claro",
+   "nome_pt": "Eixo 5",
+   "nome_en": "Technic Axle 5",
+   "funcao": "eixo",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Axles",
+   "kits": {
+    "45544": 6,
+    "45678": 6
+   },
+   "impressa": false,
+   "ldraw": "32073.dat",
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "3706-preto",
+   "codigo": "3706",
+   "cor": "Preto",
+   "nome_pt": "Eixo 6",
+   "nome_en": "Technic Axle 6",
+   "funcao": "eixo",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Axles",
+   "kits": {
+    "45544": 4
+   },
+   "impressa": false,
+   "ldraw": "3706.dat",
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "3706-vermelho",
+   "codigo": "3706",
+   "cor": "Vermelho",
+   "nome_pt": "Eixo 6",
+   "nome_en": "Technic Axle 6",
+   "funcao": "eixo",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Axles",
+   "kits": {
+    "45345": 3
+   },
+   "impressa": false,
+   "ldraw": "3706.dat",
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "44294-amarelo",
+   "codigo": "44294",
+   "cor": "Amarelo",
+   "nome_pt": "Eixo 7",
+   "nome_en": "Technic Axle 7",
+   "funcao": "eixo",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Axles",
+   "kits": {
+    "45678": 6,
+    "45345": 3
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "44294-cinza-claro",
+   "codigo": "44294",
+   "cor": "Cinza claro",
+   "nome_pt": "Eixo 7",
+   "nome_en": "Technic Axle 7",
+   "funcao": "eixo",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Axles",
+   "kits": {
+    "45544": 5
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "3707-preto",
+   "codigo": "3707",
+   "cor": "Preto",
+   "nome_pt": "Eixo 8",
+   "nome_en": "Technic Axle 8",
+   "funcao": "eixo",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Axles",
+   "kits": {
+    "45544": 2,
+    "45678": 6,
+    "45345": 3
+   },
+   "impressa": false,
+   "ldraw": "3707.dat",
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "55013-cinza-escuro",
+   "codigo": "55013",
+   "cor": "Cinza escuro",
+   "nome_pt": "Eixo 8 com batente",
+   "nome_en": "Technic Axle 8 with Stop",
+   "funcao": "eixo",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Axles",
+   "kits": {
+    "45544": 2
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "60485-cinza-claro",
+   "codigo": "60485",
+   "cor": "Cinza claro",
+   "nome_pt": "Eixo 9",
+   "nome_en": "Technic Axle 9",
+   "funcao": "eixo",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Axles",
+   "kits": {
+    "45544": 2,
+    "45678": 6
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "64781-preto",
+   "codigo": "64781",
+   "cor": "Preto",
+   "nome_pt": "Cremalheira 13",
+   "nome_en": "Technic Gear Rack 1 x 13 with Axle and Pin Holes",
+   "funcao": "engrenagem",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Gears",
+   "kits": {
+    "45678": 2
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "6589-bege",
+   "codigo": "6589",
+   "cor": "Bege",
+   "nome_pt": "Engrenagem 12 dentes cônica",
+   "nome_en": "Technic Gear 12 Tooth Bevel",
+   "funcao": "engrenagem",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Gears",
+   "kits": {
+    "45544": 2
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "32270-preto",
+   "codigo": "32270",
+   "cor": "Preto",
+   "nome_pt": "Engrenagem 12 dentes dupla cônica",
+   "nome_en": "Technic Gear 12 Tooth Double Bevel",
+   "funcao": "engrenagem",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Gears",
+   "kits": {
+    "45544": 2,
+    "45678": 3
+   },
+   "impressa": false,
+   "ldraw": "32270.dat",
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "94925-cinza-claro",
+   "codigo": "94925",
+   "cor": "Cinza claro",
+   "nome_pt": "Engrenagem 16 dentes",
+   "nome_en": "Technic Gear 16 Tooth Reinforced [New Style]",
+   "funcao": "engrenagem",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Gears",
+   "kits": {
+    "45544": 4
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "18575-bege",
+   "codigo": "18575",
+   "cor": "Bege",
+   "nome_pt": "Engrenagem 20 dentes dupla cônica",
+   "nome_en": "Technic Gear 20 Tooth Double Bevel with Axle Hole Type 1 [+ Opening]",
+   "funcao": "engrenagem",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Gears",
+   "kits": {
+    "45678": 3
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "32269-preto",
+   "codigo": "32269",
+   "cor": "Preto",
+   "nome_pt": "Engrenagem 20 dentes dupla cônica",
+   "nome_en": "Technic Gear 20 Tooth Double Bevel with Axle Hole Type 2 [X Opening]",
+   "funcao": "engrenagem",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Gears",
+   "kits": {
+    "45544": 2
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "3648b-cinza-escuro",
+   "codigo": "3648b",
+   "cor": "Cinza escuro",
+   "nome_pt": "Engrenagem 24 dentes",
+   "nome_en": "Technic Gear 24 Tooth [New Style with Single Axle Hole]",
+   "funcao": "engrenagem",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Gears",
+   "kits": {
+    "45544": 4
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "46372-cinza-claro",
+   "codigo": "46372",
+   "cor": "Cinza claro",
+   "nome_pt": "Engrenagem 28 dentes dupla cônica",
+   "nome_en": "Technic Gear 28 Tooth Double Bevel",
+   "funcao": "engrenagem",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Gears",
+   "kits": {
+    "45678": 3
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "32498-preto",
+   "codigo": "32498",
+   "cor": "Preto",
+   "nome_pt": "Engrenagem 36 dentes dupla cônica",
+   "nome_en": "Technic Gear 36 Tooth Double Bevel",
+   "funcao": "engrenagem",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Gears",
+   "kits": {
+    "45544": 2,
+    "45678": 3
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "3649-cinza-claro",
+   "codigo": "3649",
+   "cor": "Cinza claro",
+   "nome_pt": "Engrenagem 40 dentes",
+   "nome_en": "Technic Gear 40 Tooth",
+   "funcao": "engrenagem",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Gears",
+   "kits": {
+    "45544": 2
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "10928-cinza-escuro",
+   "codigo": "10928",
+   "cor": "Cinza escuro",
+   "nome_pt": "Engrenagem 8 dentes",
+   "nome_en": "Technic Gear 8 Tooth [Reinforced]",
+   "funcao": "engrenagem",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Gears",
+   "kits": {
+    "45544": 4
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "32072-preto",
+   "codigo": "32072",
+   "cor": "Preto",
+   "nome_pt": "Engrenagem cruzeta (knob)",
+   "nome_en": "Technic Knob Wheel",
+   "funcao": "engrenagem",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Gears",
+   "kits": {
+    "45544": 4
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "99010-preto",
+   "codigo": "99010",
+   "cor": "Preto",
+   "nome_pt": "Mesa giratória pequena (base)",
+   "nome_en": "Technic Turntable Small Base, 28 Tooth",
+   "funcao": "engrenagem",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Gears",
+   "kits": {
+    "45544": 2
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "99009-cinza-claro",
+   "codigo": "99009",
+   "cor": "Cinza claro",
+   "nome_pt": "Mesa giratória pequena (topo)",
+   "nome_en": "Technic Turntable Small Top",
+   "funcao": "engrenagem",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Gears",
+   "kits": {
+    "45544": 2
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "57519-preto",
+   "codigo": "57519",
+   "cor": "Preto",
+   "nome_pt": "Roda dentada de esteira",
+   "nome_en": "Technic Tread Sprocket Wheel Large 10 Tooth",
+   "funcao": "engrenagem",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Gears",
+   "kits": {
+    "45544": 4
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "4716-cinza-claro",
+   "codigo": "4716",
+   "cor": "Cinza claro",
+   "nome_pt": "Rosca sem-fim",
+   "nome_en": "Technic Worm Gear",
+   "funcao": "engrenagem",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Gears",
+   "kits": {
+    "45544": 2
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "96874-laranja",
+   "codigo": "96874",
+   "cor": "Laranja",
+   "nome_pt": "Separador de peças",
+   "nome_en": "Brick and Axle Separator v2.0",
+   "funcao": "ferramenta",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Tools",
+   "kits": {
+    "45345": 1
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "95656-cinza-claro",
+   "codigo": "95656",
+   "cor": "Cinza claro",
+   "nome_pt": "Bateria recarregável EV3",
+   "nome_en": "Battery Pack, Rechargeable, DC, EV3",
+   "funcao": "hub_bateria",
+   "funcao_fonte": "Rebrickable part_categories + palavra do nome",
+   "categoria_rebrickable": "Electronics",
+   "kits": {
+    "45544": 1
+   },
+   "impressa": false,
+   "ldraw": "95656.dat",
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "55422-amarelo",
+   "codigo": "55422",
+   "cor": "Amarelo",
+   "nome_pt": "Bateria recarregável SPIKE (hub grande)",
+   "nome_en": "Battery Pack, Rechargeable, SPIKE, 7.3V",
+   "funcao": "hub_bateria",
+   "funcao_fonte": "Rebrickable part_categories + palavra do nome",
+   "categoria_rebrickable": "Electronics",
+   "kits": {
+    "45678": 1
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "66757-amarelo",
+   "codigo": "66757",
+   "cor": "Amarelo",
+   "nome_pt": "Bateria recarregável SPIKE (hub pequeno)",
+   "nome_en": "Battery Pack, Rechargeable, for Small SPIKE Hub",
+   "funcao": "hub_bateria",
+   "funcao_fonte": "Rebrickable part_categories + palavra do nome",
+   "categoria_rebrickable": "Electronics",
+   "kits": {
+    "45345": 1
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "95646c01-branco",
+   "codigo": "95646c01",
+   "cor": "Branco",
+   "nome_pt": "Brick EV3",
+   "nome_en": "Hub, EV3 Brick [Complete Assembly]",
+   "funcao": "hub_bateria",
+   "funcao_fonte": "Rebrickable part_categories + palavra do nome",
+   "categoria_rebrickable": "Electronics",
+   "kits": {
+    "45544": 1
+   },
+   "impressa": false,
+   "ldraw": "95646c01.dat",
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "45601-amarelo",
+   "codigo": "45601",
+   "cor": "Amarelo",
+   "nome_pt": "Hub grande SPIKE (6 portas)",
+   "nome_en": "Hub, Programmable, SPIKE 6-Port",
+   "funcao": "hub_bateria",
+   "funcao_fonte": "Rebrickable part_categories + palavra do nome",
+   "categoria_rebrickable": "Electronics",
+   "kits": {
+    "45678": 1
+   },
+   "impressa": false,
+   "ldraw": "45601.dat",
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "67351-amarelo",
+   "codigo": "67351",
+   "cor": "Amarelo",
+   "nome_pt": "Hub pequeno SPIKE (2 portas)",
+   "nome_en": "Hub, Programmable, SPIKE 2-Port (Small)",
+   "funcao": "hub_bateria",
+   "funcao_fonte": "Rebrickable part_categories + palavra do nome",
+   "categoria_rebrickable": "Electronics",
+   "kits": {
+    "45345": 1
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "99143-cinza-claro",
+   "codigo": "99143",
+   "cor": "Cinza claro",
+   "nome_pt": "Tampa da bateria EV3",
+   "nome_en": "Battery Cover, EV3 Programable Brick",
+   "funcao": "hub_bateria",
+   "funcao_fonte": "Rebrickable part_categories + palavra do nome",
+   "categoria_rebrickable": "Electronics",
+   "kits": {
+    "45544": 1
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "47592-azul-celeste",
+   "codigo": "47592",
+   "cor": "Azul celeste",
+   "nome_pt": "Matriz de luz 3x3 SPIKE",
+   "nome_en": "Light, Color Matrix Display, 3 x 3, SPIKE",
+   "funcao": "matriz_luz",
+   "funcao_fonte": "Rebrickable part_categories + palavra do nome",
+   "categoria_rebrickable": "Electronics",
+   "kits": {
+    "45345": 1
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "52629-branco",
+   "codigo": "52629",
+   "cor": "Branco",
+   "nome_pt": "Bola 19 mm",
+   "nome_en": "Ball 19mm",
+   "funcao": "mecanismo",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Special",
+   "kits": {
+    "45678": 1
+   },
+   "impressa": false,
+   "ldraw": "52629.dat",
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "99948-chrome-silver",
+   "codigo": "99948",
+   "cor": "Chrome Silver",
+   "nome_pt": "Bola de aço 18 mm (rodízio)",
+   "nome_en": "Technic Steel Ball 18 mm",
+   "funcao": "mecanismo",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Steering, Suspension and Engine",
+   "kits": {
+    "45544": 1
+   },
+   "impressa": false,
+   "ldraw": "99948.dat",
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "41669-branco",
+   "codigo": "41669",
+   "cor": "Branco",
+   "nome_pt": "Dente 1x3",
+   "nome_en": "Technic Tooth 1 x 3 with Axle Hole [Rounded Underside]",
+   "funcao": "mecanismo",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Special",
+   "kits": {
+    "45544": 4
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "48267-branco",
+   "codigo": "48267",
+   "cor": "Branco",
+   "nome_pt": "Dente 1x3",
+   "nome_en": "Technic Tooth 1 x 3 with Axle Hole [Hollow Underside]",
+   "funcao": "mecanismo",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Special",
+   "kits": {
+    "45678": 2
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "88323-preto",
+   "codigo": "88323",
+   "cor": "Preto",
+   "nome_pt": "Elo de esteira",
+   "nome_en": "Technic Link Tread Wide with Two Pin Holes, Reinforced",
+   "funcao": "mecanismo",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Special",
+   "kits": {
+    "45544": 54
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "32005a-preto",
+   "codigo": "32005a",
+   "cor": "Preto",
+   "nome_pt": "Haste de ligação 6",
+   "nome_en": "Technic Link 1 x 6 without Stoppers",
+   "funcao": "mecanismo",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Steering, Suspension and Engine",
+   "kits": {
+    "45678": 3
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "92911-cinza-escuro",
+   "codigo": "92911",
+   "cor": "Cinza escuro",
+   "nome_pt": "Junta esférica de direção (encaixe)",
+   "nome_en": "Technic Steering Ball Joint Large Receptacle",
+   "funcao": "mecanismo",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Steering, Suspension and Engine",
+   "kits": {
+    "45544": 1
+   },
+   "impressa": false,
+   "ldraw": "92911.dat",
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "39370-azul-celeste",
+   "codigo": "39370",
+   "cor": "Azul celeste",
+   "nome_pt": "Viga 3x5 com bola giratória",
+   "nome_en": "Technic Beam 3 x 5 with Ball And Castor Joint",
+   "funcao": "mecanismo",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Steering, Suspension and Engine",
+   "kits": {
+    "45678": 1
+   },
+   "impressa": false,
+   "ldraw": "39370.dat",
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "95658-cinza-claro",
+   "codigo": "95658",
+   "cor": "Cinza claro",
+   "nome_pt": "Motor grande EV3",
+   "nome_en": "Motor, Large, EV3 with White Case",
+   "funcao": "motor",
+   "funcao_fonte": "Rebrickable part_categories + palavra do nome",
+   "categoria_rebrickable": "Electronics",
+   "kits": {
+    "45544": 2
+   },
+   "impressa": false,
+   "ldraw": "95658.dat",
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "54675-azul-celeste",
+   "codigo": "54675",
+   "cor": "Azul celeste",
+   "nome_pt": "Motor grande SPIKE",
+   "nome_en": "Motor, Large Angular, SPIKE, White Housing, White Wire",
+   "funcao": "motor",
+   "funcao_fonte": "Rebrickable part_categories + palavra do nome",
+   "categoria_rebrickable": "Electronics",
+   "kits": {
+    "45678": 1
+   },
+   "impressa": false,
+   "ldraw": "54675.dat",
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "99455-cinza-claro",
+   "codigo": "99455",
+   "cor": "Cinza claro",
+   "nome_pt": "Motor médio EV3",
+   "nome_en": "Motor, Medium, EV3 with White Case",
+   "funcao": "motor",
+   "funcao_fonte": "Rebrickable part_categories + palavra do nome",
+   "categoria_rebrickable": "Electronics",
+   "kits": {
+    "45544": 1
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "54696-azul-celeste",
+   "codigo": "54696",
+   "cor": "Azul celeste",
+   "nome_pt": "Motor médio SPIKE",
+   "nome_en": "Motor, Medium Servo SPIKE",
+   "funcao": "motor",
+   "funcao_fonte": "Rebrickable part_categories + palavra do nome",
+   "categoria_rebrickable": "Electronics",
+   "kits": {
+    "45678": 2
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "68488-branco",
+   "codigo": "68488",
+   "cor": "Branco",
+   "nome_pt": "Motor pequeno SPIKE",
+   "nome_en": "Motor, Small Angular, SPIKE, White Housing, White Wire",
+   "funcao": "motor",
+   "funcao_fonte": "Rebrickable part_categories + palavra do nome",
+   "categoria_rebrickable": "Electronics",
+   "kits": {
+    "45345": 2
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "15458-preto",
+   "codigo": "15458",
+   "cor": "Preto",
+   "nome_pt": "Painel 3x11",
+   "nome_en": "Technic Panel 3 x 11 x 1",
+   "funcao": "painel",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Panels",
+   "kits": {
+    "45678": 2
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "64392-preto",
+   "codigo": "64392",
+   "cor": "Preto",
+   "nome_pt": "Painel curvo (carenagem)",
+   "nome_en": "Technic Panel Fairing #17 Large Smooth, Side A",
+   "funcao": "painel",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Panels",
+   "kits": {
+    "45544": 1
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "64682-preto",
+   "codigo": "64682",
+   "cor": "Preto",
+   "nome_pt": "Painel curvo (carenagem)",
+   "nome_en": "Technic Panel Fairing #18 Large Smooth, Side B",
+   "funcao": "painel",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Panels",
+   "kits": {
+    "45544": 1
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "87080-preto",
+   "codigo": "87080",
+   "cor": "Preto",
+   "nome_pt": "Painel curvo (carenagem)",
+   "nome_en": "Technic Panel Fairing #1 Small Smooth Short, Side A",
+   "funcao": "painel",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Panels",
+   "kits": {
+    "45544": 1
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "87086-preto",
+   "codigo": "87086",
+   "cor": "Preto",
+   "nome_pt": "Painel curvo (carenagem)",
+   "nome_en": "Technic Panel Fairing #2 Small Smooth Short, Side B",
+   "funcao": "painel",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Panels",
+   "kits": {
+    "45544": 1
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "11954-azul-celeste",
+   "codigo": "11954",
+   "cor": "Azul celeste",
+   "nome_pt": "Painel curvo 11x3",
+   "nome_en": "Technic Panel Curved 11 x 3 with 10 Pin Holes through Panel Surface",
+   "funcao": "painel",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Panels",
+   "kits": {
+    "45678": 2
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "41751-azul-celeste",
+   "codigo": "41751",
+   "cor": "Azul celeste",
+   "nome_pt": "Para-brisa",
+   "nome_en": "Windscreen 8 x 6 x 2 Curved",
+   "funcao": "painel",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Windscreens and Fuselage",
+   "kits": {
+    "45678": 1
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "14769pr0080-branco",
+   "codigo": "14769pr0080",
+   "cor": "Branco",
+   "nome_pt": "Placa lisa redonda com desenho (olho)",
+   "nome_en": "Tile Round 2 x 2 with Black Spiral Print",
+   "funcao": "peca_impressa",
+   "funcao_fonte": "Rebrickable part_categories + codigo/nome indica impressao (olho, circulo, espiral)",
+   "categoria_rebrickable": "Tiles Round and Curved",
+   "kits": {
+    "45678": 2
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "98138pr0062-branco",
+   "codigo": "98138pr0062",
+   "cor": "Branco",
+   "nome_pt": "Placa lisa redonda com desenho (olho)",
+   "nome_en": "Tile Round 1 x 1 with Squinted Eye, Top Side Pupil Print",
+   "funcao": "peca_impressa",
+   "funcao_fonte": "Rebrickable part_categories + codigo/nome indica impressao (olho, circulo, espiral)",
+   "categoria_rebrickable": "Tiles Round and Curved",
+   "kits": {
+    "45678": 4
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "14769pr1116-branco",
+   "codigo": "14769pr1116",
+   "cor": "Branco",
+   "nome_pt": "Placa lisa redonda com desenho (olho)",
+   "nome_en": "Tile Round 2 x 2 with Eye, Blue Iris, Black Pupil Print",
+   "funcao": "peca_impressa",
+   "funcao_fonte": "Rebrickable part_categories + codigo/nome indica impressao (olho, circulo, espiral)",
+   "categoria_rebrickable": "Tiles Round and Curved",
+   "kits": {
+    "45345": 2
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "98138pr0008-branco",
+   "codigo": "98138pr0008",
+   "cor": "Branco",
+   "nome_pt": "Placa lisa redonda com desenho (olho)",
+   "nome_en": "Tile Round 1 x 1 with Offset Black Eye Print",
+   "funcao": "peca_impressa",
+   "funcao_fonte": "Rebrickable part_categories + codigo/nome indica impressao (olho, circulo, espiral)",
+   "categoria_rebrickable": "Tiles Round and Curved",
+   "kits": {
+    "45345": 4
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "98138pr0076-preto",
+   "codigo": "98138pr0076",
+   "cor": "Preto",
+   "nome_pt": "Placa lisa redonda com desenho (olho)",
+   "nome_en": "Tile Round 1 x 1 with White Circle Print",
+   "funcao": "peca_impressa",
+   "funcao_fonte": "Rebrickable part_categories + codigo/nome indica impressao (olho, circulo, espiral)",
+   "categoria_rebrickable": "Tiles Round and Curved",
+   "kits": {
+    "45678": 4
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "3957b-branco",
+   "codigo": "3957b",
+   "cor": "Branco",
+   "nome_pt": "Antena 1x4",
+   "nome_en": "Antenna 1 x 4 with Flat Top",
+   "funcao": "pecas_especiais",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Bars, Ladders and Fences",
+   "kits": {
+    "45345": 2
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "4079b-vermelho",
+   "codigo": "4079b",
+   "cor": "Vermelho",
+   "nome_pt": "Assento",
+   "nome_en": "Seat / Chair 2 x 2 with Center Sprue Mark",
+   "funcao": "pecas_especiais",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Transportation - Land",
+   "kits": {
+    "45345": 4
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "11055-vermelho",
+   "codigo": "11055",
+   "cor": "Vermelho",
+   "nome_pt": "Bandeira 2x2",
+   "nome_en": "Flag 2 x 2 Square, Flat Clip Edge [Thick Clips]",
+   "funcao": "pecas_especiais",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Flags, Banners and Signs",
+   "kits": {
+    "45345": 2
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "30162-cinza-escuro",
+   "codigo": "30162",
+   "cor": "Cinza escuro",
+   "nome_pt": "Binóculo",
+   "nome_en": "Equipment Binoculars",
+   "funcao": "pecas_especiais",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Minifig Accessories",
+   "kits": {
+    "45345": 1
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "54821-vermelho",
+   "codigo": "54821",
+   "cor": "Vermelho",
+   "nome_pt": "Bola / esfera",
+   "nome_en": "Projectile, Large Figure Weapon, Zamor Sphere / Ball",
+   "funcao": "pecas_especiais",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Projectiles / Launchers",
+   "kits": {
+    "45345": 5
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "92586pr0001-caramelo",
+   "codigo": "92586pr0001",
+   "cor": "Caramelo",
+   "nome_pt": "Cachorro",
+   "nome_en": "Animal, Dog, Alsatian / German Shepherd (Police Dog) with Black Eyes and Forehead Print",
+   "funcao": "pecas_especiais",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Animals / Creatures",
+   "kits": {
+    "45345": 1
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "24312-cinza-claro",
+   "codigo": "24312",
+   "cor": "Cinza claro",
+   "nome_pt": "Cadeira de rodas",
+   "nome_en": "Equipment Medical Wheelchair with Clips for Wheels",
+   "funcao": "pecas_especiais",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Minifig Accessories",
+   "kits": {
+    "45345": 1
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "33121-laranja-claro",
+   "codigo": "33121",
+   "cor": "Laranja claro",
+   "nome_pt": "Caranguejo",
+   "nome_en": "Animal, Crab",
+   "funcao": "pecas_especiais",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Animals / Creatures",
+   "kits": {
+    "45345": 1
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "4006-prata",
+   "codigo": "4006",
+   "cor": "Prata",
+   "nome_pt": "Chave de fenda e chave inglesa",
+   "nome_en": "Tool Screwdriver and Spanner / Wrench",
+   "funcao": "pecas_especiais",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Minifig Shields, Weapons, & Tools",
+   "kits": {
+    "45345": 1
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "30385-trans-bright-green",
+   "codigo": "30385",
+   "cor": "Trans-Bright Green",
+   "nome_pt": "Cristal",
+   "nome_en": "Rock 1 x 1 Crystal 5 Point",
+   "funcao": "pecas_especiais",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Rock",
+   "kits": {
+    "45345": 1
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "30385-vermelho-transparente",
+   "codigo": "30385",
+   "cor": "Vermelho transparente",
+   "nome_pt": "Cristal",
+   "nome_en": "Rock 1 x 1 Crystal 5 Point",
+   "funcao": "pecas_especiais",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Rock",
+   "kits": {
+    "45345": 1
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "30089b-preto",
+   "codigo": "30089b",
+   "cor": "Preto",
+   "nome_pt": "Câmera fotográfica",
+   "nome_en": "Equipment Camera Handheld with Central Viewfinder",
+   "funcao": "pecas_especiais",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Minifig Accessories",
+   "kits": {
+    "45345": 1
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "38648pat0001-preto",
+   "codigo": "38648pat0001",
+   "cor": "Preto",
+   "nome_pt": "Lupa",
+   "nome_en": "Equipment Magnifying Glass with Thick Frame, Hollow Handle, Trans-Clear Lens Pattern",
+   "funcao": "pecas_especiais",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Minifig Accessories",
+   "kits": {
+    "45345": 1
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "57539-prata",
+   "codigo": "57539",
+   "cor": "Prata",
+   "nome_pt": "Mangueira flexível",
+   "nome_en": "Flexible Ribbed Hose 8mm Ends 19L",
+   "funcao": "pecas_especiais",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Tubes and Hoses",
+   "kits": {
+    "45678": 2
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "27328pat0001-transparente",
+   "codigo": "27328pat0001",
+   "cor": "Transparente",
+   "nome_pt": "Mangueira flexível",
+   "nome_en": "Flexible Ribbed Hose 8mm Ends 10L and Blue Center Pattern",
+   "funcao": "pecas_especiais",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Tubes and Hoses",
+   "kits": {
+    "45345": 2
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "57539pat0002-transparente",
+   "codigo": "57539pat0002",
+   "cor": "Transparente",
+   "nome_pt": "Mangueira flexível",
+   "nome_en": "Flexible Ribbed Hose 8mm Ends 19L with Lime Green Centre Pattern",
+   "funcao": "pecas_especiais",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Tubes and Hoses",
+   "kits": {
+    "45345": 2
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "24946-branco",
+   "codigo": "24946",
+   "cor": "Branco",
+   "nome_pt": "Ovo",
+   "nome_en": "Food Egg with 1.5mm Hole [Plain]",
+   "funcao": "pecas_especiais",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Minifig Accessories",
+   "kits": {
+    "45345": 1
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "49153-branco",
+   "codigo": "49153",
+   "cor": "Branco",
+   "nome_pt": "Placa lisa especial",
+   "nome_en": "Tile Special 2 x 2 with Top Pin [Squared Holes]",
+   "funcao": "pecas_especiais",
+   "funcao_fonte": "Rebrickable part_categories + excecao explicita: Tile Special 2x2 com pino em cima (nao e telha lisa)",
+   "categoria_rebrickable": "Tiles Special",
+   "kits": {
+    "45345": 6
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "32606-laranja-claro",
+   "codigo": "32606",
+   "cor": "Laranja claro",
+   "nome_pt": "Planta",
+   "nome_en": "Plant, Flower, Minifig Accessory with 7 Thick Petals and Pin",
+   "funcao": "pecas_especiais",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Plants & Trees",
+   "kits": {
+    "45345": 2
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "32606-rosa-escuro",
+   "codigo": "32606",
+   "cor": "Rosa escuro",
+   "nome_pt": "Planta",
+   "nome_en": "Plant, Flower, Minifig Accessory with 7 Thick Petals and Pin",
+   "funcao": "pecas_especiais",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Plants & Trees",
+   "kits": {
+    "45345": 2
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "6064-verde",
+   "codigo": "6064",
+   "cor": "Verde",
+   "nome_pt": "Planta",
+   "nome_en": "Plant, Bush 2 x 2 x 4",
+   "funcao": "pecas_especiais",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Plants & Trees",
+   "kits": {
+    "45345": 2
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "15279-verde-vivo",
+   "codigo": "15279",
+   "cor": "Verde vivo",
+   "nome_pt": "Planta",
+   "nome_en": "Plant, Grass Stem with Bar Hole [3.2mm]",
+   "funcao": "pecas_especiais",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Plants & Trees",
+   "kits": {
+    "45345": 2
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "4727-verde-vivo",
+   "codigo": "4727",
+   "cor": "Verde vivo",
+   "nome_pt": "Planta",
+   "nome_en": "Plant, Flower 2 x 2 Leaves - Angular",
+   "funcao": "pecas_especiais",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Plants & Trees",
+   "kits": {
+    "45345": 2
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "18746-laranja-claro",
+   "codigo": "18746",
+   "cor": "Laranja claro",
+   "nome_pt": "Prancha de snowboard",
+   "nome_en": "Sports Snowboard Small",
+   "funcao": "pecas_especiais",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Minifig Accessories",
+   "kits": {
+    "45345": 2
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "6256-laranja-claro",
+   "codigo": "6256",
+   "cor": "Laranja claro",
+   "nome_pt": "Prato 3x3",
+   "nome_en": "Equipment Dish / Plate / Bowl 3 x 3 [Plain]",
+   "funcao": "pecas_especiais",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Minifig Accessories",
+   "kits": {
+    "45345": 1
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "33320-verde",
+   "codigo": "33320",
+   "cor": "Verde",
+   "nome_pt": "Sapo",
+   "nome_en": "Animal, Frog",
+   "funcao": "pecas_especiais",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Animals / Creatures",
+   "kits": {
+    "45345": 2
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "95347-amarelo",
+   "codigo": "95347",
+   "cor": "Amarelo",
+   "nome_pt": "Torre treliça",
+   "nome_en": "Support 2 x 2 x 10 Girder Triangular Vertical - Type 4 - 3 Posts, 3 Sections",
+   "funcao": "pecas_especiais",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Supports, Girders and Cranes",
+   "kits": {
+    "45345": 4
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "6124-trans-dark-pink",
+   "codigo": "6124",
+   "cor": "Trans-Dark Pink",
+   "nome_pt": "Varinha",
+   "nome_en": "Equipment Magic Wand",
+   "funcao": "pecas_especiais",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Minifig Accessories",
+   "kits": {
+    "45345": 1
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "65826-verde-vivo",
+   "codigo": "65826",
+   "cor": "Verde vivo",
+   "nome_pt": "Meio pino",
+   "nome_en": "Technic Pin 1/2 with Anti-Stud",
+   "funcao": "pino",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Pins",
+   "kits": {
+    "45345": 28
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "2780-preto",
+   "codigo": "2780",
+   "cor": "Preto",
+   "nome_pt": "Pino com atrito",
+   "nome_en": "Technic Pin with Friction Ridges Lengthwise and Center Slots",
+   "funcao": "pino",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Pins",
+   "kits": {
+    "45544": 60
+   },
+   "impressa": false,
+   "ldraw": "2780.dat",
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "61332-preto",
+   "codigo": "61332",
+   "cor": "Preto",
+   "nome_pt": "Pino com atrito",
+   "nome_en": "Technic Pin with Friction Ridges Lengthwise with No Center Slots",
+   "funcao": "pino",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Pins",
+   "kits": {
+    "45678": 92,
+    "45345": 28
+   },
+   "impressa": false,
+   "ldraw": "61332.dat",
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "66906-preto",
+   "codigo": "66906",
+   "cor": "Preto",
+   "nome_pt": "Pino com atrito e bola",
+   "nome_en": "Technic Pin with Friction Ridges Lengthwise and Towball - Round Pin Hole",
+   "funcao": "pino",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Pins",
+   "kits": {
+    "45678": 6
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "6558-azul",
+   "codigo": "6558",
+   "cor": "Azul",
+   "nome_pt": "Pino longo com atrito",
+   "nome_en": "Technic Pin Long with Friction Ridges Lengthwise, 2 Center Slots",
+   "funcao": "pino",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Pins",
+   "kits": {
+    "45544": 30,
+    "45678": 14
+   },
+   "impressa": false,
+   "ldraw": "6558.dat",
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "18651-preto",
+   "codigo": "18651",
+   "cor": "Preto",
+   "nome_pt": "Pino longo com atrito + eixo 2",
+   "nome_en": "Technic Axle Pin 3L with Friction Ridges Lengthwise and 2L Axle",
+   "funcao": "pino",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Pins",
+   "kits": {
+    "45678": 15
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "32054-cinza-claro",
+   "codigo": "32054",
+   "cor": "Cinza claro",
+   "nome_pt": "Pino longo com atrito e bucha",
+   "nome_en": "Technic Pin Long with Friction Ridges Lengthwise and Stop Bush [3 Lateral Holes, Big Pin Hole]",
+   "funcao": "pino",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Pins",
+   "kits": {
+    "45678": 10
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "32054-vermelho",
+   "codigo": "32054",
+   "cor": "Vermelho",
+   "nome_pt": "Pino longo com atrito e bucha",
+   "nome_en": "Technic Pin Long with Friction Ridges Lengthwise and Stop Bush [3 Lateral Holes, Big Pin Hole]",
+   "funcao": "pino",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Pins",
+   "kits": {
+    "45544": 22
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "32556-bege",
+   "codigo": "32556",
+   "cor": "Bege",
+   "nome_pt": "Pino longo sem atrito",
+   "nome_en": "Technic Pin Long without Friction Ridges",
+   "funcao": "pino",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Pins",
+   "kits": {
+    "45544": 6
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "65249-branco",
+   "codigo": "65249",
+   "cor": "Branco",
+   "nome_pt": "Pino longo sem atrito + eixo 2",
+   "nome_en": "Technic Axle Pin 3L without Friction Ridges and 2L Axle",
+   "funcao": "pino",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Pins",
+   "kits": {
+    "45345": 12
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "3673-cinza-claro",
+   "codigo": "3673",
+   "cor": "Cinza claro",
+   "nome_pt": "Pino sem atrito",
+   "nome_en": "Technic Pin without Friction Ridges Lengthwise",
+   "funcao": "pino",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Pins",
+   "kits": {
+    "45544": 10
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "43093-azul",
+   "codigo": "43093",
+   "cor": "Azul",
+   "nome_pt": "Pino-eixo com atrito",
+   "nome_en": "Technic Axle Pin with Friction Ridges Lengthwise",
+   "funcao": "pino",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Pins",
+   "kits": {
+    "45544": 20
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "3749-bege",
+   "codigo": "3749",
+   "cor": "Bege",
+   "nome_pt": "Pino-eixo sem atrito",
+   "nome_en": "Technic Axle Pin without Friction Ridges Lengthwise",
+   "funcao": "pino",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Pins",
+   "kits": {
+    "45544": 8,
+    "45678": 30
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "91405-branco",
+   "codigo": "91405",
+   "cor": "Branco",
+   "nome_pt": "Placa 16x16",
+   "nome_en": "Plate 16 x 16",
+   "funcao": "placa",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Plates",
+   "kits": {
+    "45345": 2
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "4282-magenta",
+   "codigo": "4282",
+   "cor": "Magenta",
+   "nome_pt": "Placa 2x16",
+   "nome_en": "Plate 2 x 16",
+   "funcao": "placa",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Plates",
+   "kits": {
+    "45678": 2
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "92438-branco",
+   "codigo": "92438",
+   "cor": "Branco",
+   "nome_pt": "Placa 8x16",
+   "nome_en": "Plate 8 x 16",
+   "funcao": "placa",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Plates",
+   "kits": {
+    "45345": 2
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "41539-branco",
+   "codigo": "41539",
+   "cor": "Branco",
+   "nome_pt": "Placa 8x8",
+   "nome_en": "Plate 8 x 8",
+   "funcao": "placa",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Plates",
+   "kits": {
+    "45345": 2
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "3709-laranja-claro",
+   "codigo": "3709",
+   "cor": "Laranja claro",
+   "nome_pt": "Placa Technic 2x4",
+   "nome_en": "Technic Plate 2 x 4 [3 Holes]",
+   "funcao": "placa",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Plates Special",
+   "kits": {
+    "45345": 5
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "32001-azul-escuro-celeste",
+   "codigo": "32001",
+   "cor": "Azul escuro celeste",
+   "nome_pt": "Placa Technic 2x6",
+   "nome_en": "Technic Plate 2 x 6 [5 Holes]",
+   "funcao": "placa",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Plates Special",
+   "kits": {
+    "45345": 5
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "3738-preto",
+   "codigo": "3738",
+   "cor": "Preto",
+   "nome_pt": "Placa Technic 2x8",
+   "nome_en": "Technic Plate 2 x 8 [7 Holes]",
+   "funcao": "placa",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Plates Special",
+   "kits": {
+    "45678": 4
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "3738-verde-vivo",
+   "codigo": "3738",
+   "cor": "Verde vivo",
+   "nome_pt": "Placa Technic 2x8",
+   "nome_en": "Technic Plate 2 x 8 [7 Holes]",
+   "funcao": "placa",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Plates Special",
+   "kits": {
+    "45345": 5
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "32059-laranja-claro",
+   "codigo": "32059",
+   "cor": "Laranja claro",
+   "nome_pt": "Placa em cunha 4x6",
+   "nome_en": "Wedge Plate 4 x 6 Cut Corners",
+   "funcao": "placa",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Plates Wedged",
+   "kits": {
+    "45345": 2
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "18674-branco",
+   "codigo": "18674",
+   "cor": "Branco",
+   "nome_pt": "Placa especial",
+   "nome_en": "Plate Special Round 2 x 2 with Center Stud (Jumper Plate)",
+   "funcao": "placa",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Plates Special",
+   "kits": {
+    "45678": 2
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "14704-cinza-claro",
+   "codigo": "14704",
+   "cor": "Cinza claro",
+   "nome_pt": "Placa especial",
+   "nome_en": "Plate Special 1 x 2 5.9mm Centre Side Towball Socket",
+   "funcao": "placa",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Plates Special",
+   "kits": {
+    "45345": 5
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "14417-cinza-escuro",
+   "codigo": "14417",
+   "cor": "Cinza escuro",
+   "nome_pt": "Placa especial",
+   "nome_en": "Plate Special 1 x 2 with 5.9mm Centre Side Towball",
+   "funcao": "placa",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Plates Special",
+   "kits": {
+    "45345": 5
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "4032a-azul-celeste",
+   "codigo": "4032a",
+   "cor": "Azul celeste",
+   "nome_pt": "Placa redonda",
+   "nome_en": "Plate Round 2 x 2 with Axle Hole Type 1 (+ Opening)",
+   "funcao": "placa",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Plates Round Curved and Dishes",
+   "kits": {
+    "45678": 6
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "2654-magenta",
+   "codigo": "2654",
+   "cor": "Magenta",
+   "nome_pt": "Placa redonda",
+   "nome_en": "Plate Round 2 x 2 with Rounded Bottom [Boat Stud]",
+   "funcao": "placa",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Plates Round Curved and Dishes",
+   "kits": {
+    "45345": 6
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "60474-magenta",
+   "codigo": "60474",
+   "cor": "Magenta",
+   "nome_pt": "Placa redonda",
+   "nome_en": "Plate Round 4 x 4 with Pin Hole",
+   "funcao": "placa",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Plates Round Curved and Dishes",
+   "kits": {
+    "45345": 3
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "35394-azul-transparente",
+   "codigo": "35394",
+   "cor": "Azul transparente",
+   "nome_pt": "Prato (antena)",
+   "nome_en": "Dish 4 x 4 Inverted with Open Stud [Radar]",
+   "funcao": "placa",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Plates Round Curved and Dishes",
+   "kits": {
+    "45345": 2
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "44375b-transparente",
+   "codigo": "44375b",
+   "cor": "Transparente",
+   "nome_pt": "Prato (antena)",
+   "nome_en": "Dish 6 x 6 Inverted (Radar) with Solid Studs",
+   "funcao": "placa",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Plates Round Curved and Dishes",
+   "kits": {
+    "45678": 2
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "41897-preto",
+   "codigo": "41897",
+   "cor": "Preto",
+   "nome_pt": "Pneu 56 x 28",
+   "nome_en": "Tyre 56 x 28 ZR Street",
+   "funcao": "roda",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Wheels and Tyres",
+   "kits": {
+    "45544": 2
+   },
+   "impressa": false,
+   "ldraw": "41897.dat",
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "2815-azul-celeste",
+   "codigo": "2815",
+   "cor": "Azul celeste",
+   "nome_pt": "Pneu de polia",
+   "nome_en": "Technic Wedge Belt Wheel Tire",
+   "funcao": "roda",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Wheels and Tyres",
+   "kits": {
+    "45345": 4
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "2815-preto",
+   "codigo": "2815",
+   "cor": "Preto",
+   "nome_pt": "Pneu de polia",
+   "nome_en": "Technic Wedge Belt Wheel Tire",
+   "funcao": "roda",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Wheels and Tyres",
+   "kits": {
+    "45544": 4,
+    "45678": 2
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "61254-preto",
+   "codigo": "61254",
+   "cor": "Preto",
+   "nome_pt": "Pneu fino 23 x 7",
+   "nome_en": "Tyre Offset Tread with Center Band 23 x 7",
+   "funcao": "roda",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Wheels and Tyres",
+   "kits": {
+    "45678": 3
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "4185-branco",
+   "codigo": "4185",
+   "cor": "Branco",
+   "nome_pt": "Polia",
+   "nome_en": "Technic Wedge Belt Wheel [aka Pulley]",
+   "funcao": "roda",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Wheels and Tyres",
+   "kits": {
+    "45345": 4
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "4185-cinza-escuro",
+   "codigo": "4185",
+   "cor": "Cinza escuro",
+   "nome_pt": "Polia",
+   "nome_en": "Technic Wedge Belt Wheel [aka Pulley]",
+   "funcao": "roda",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Wheels and Tyres",
+   "kits": {
+    "45544": 4
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "4185-preto",
+   "codigo": "4185",
+   "cor": "Preto",
+   "nome_pt": "Polia",
+   "nome_en": "Technic Wedge Belt Wheel [aka Pulley]",
+   "funcao": "roda",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Wheels and Tyres",
+   "kits": {
+    "45678": 2
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "56903-branco",
+   "codigo": "56903",
+   "cor": "Branco",
+   "nome_pt": "Roda 18 x 8",
+   "nome_en": "Wheel 18 x 8 with Fake Bolts and Shallow Spokes and Axle Hole",
+   "funcao": "roda",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Wheels and Tyres",
+   "kits": {
+    "45678": 3
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "65834pat0002-branco",
+   "codigo": "65834pat0002",
+   "cor": "Branco",
+   "nome_pt": "Roda 43 x 14 com pneu",
+   "nome_en": "Wheel 43 x 14 with 4 Spokes, Axle Hole, and Medium Azure Integral Tire",
+   "funcao": "roda",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Wheels and Tyres",
+   "kits": {
+    "45345": 2
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "56908-cinza-claro",
+   "codigo": "56908",
+   "cor": "Cinza claro",
+   "nome_pt": "Roda 43,2 x 26",
+   "nome_en": "Wheel 43.2 x 26 Technic Racing Small with 6 Pinholes",
+   "funcao": "roda",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Wheels and Tyres",
+   "kits": {
+    "45544": 2
+   },
+   "impressa": false,
+   "ldraw": "56908.dat",
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "39367pat0001-preto",
+   "codigo": "39367pat0001",
+   "cor": "Preto",
+   "nome_pt": "Roda 57 x 14 com pneu",
+   "nome_en": "Wheel 57 x 14 with 4 Black Spokes with 2 Holes and Medium Azure Integral Tire",
+   "funcao": "roda",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Wheels and Tyres",
+   "kits": {
+    "45678": 4
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "24314c01-transparente",
+   "codigo": "24314c01",
+   "cor": "Transparente",
+   "nome_pt": "Roda de cadeira de rodas",
+   "nome_en": "Wheel Wheelchair with Fixed Black Hard Rubber Tire, with Clip Hole",
+   "funcao": "roda",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Wheels and Tyres",
+   "kits": {
+    "45345": 2
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "2496-preto",
+   "codigo": "2496",
+   "cor": "Preto",
+   "nome_pt": "Rodinha de skate",
+   "nome_en": "Wheel Skateboard / Trolley",
+   "funcao": "roda",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Wheels and Tyres",
+   "kits": {
+    "45345": 1
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "95650-cinza-claro",
+   "codigo": "95650",
+   "cor": "Cinza claro",
+   "nome_pt": "Sensor de cor EV3",
+   "nome_en": "Sensor, Colour, EV3 with White Case",
+   "funcao": "sensor",
+   "funcao_fonte": "Rebrickable part_categories + palavra do nome",
+   "categoria_rebrickable": "Electronics",
+   "kits": {
+    "45544": 1
+   },
+   "impressa": false,
+   "ldraw": "95650.dat",
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "37308-branco",
+   "codigo": "37308",
+   "cor": "Branco",
+   "nome_pt": "Sensor de cor SPIKE",
+   "nome_en": "Sensor, Color, SPIKE",
+   "funcao": "sensor",
+   "funcao_fonte": "Rebrickable part_categories + palavra do nome",
+   "categoria_rebrickable": "Electronics",
+   "kits": {
+    "45678": 1,
+    "45345": 1
+   },
+   "impressa": false,
+   "ldraw": "37308.dat",
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "37316-branco",
+   "codigo": "37316",
+   "cor": "Branco",
+   "nome_pt": "Sensor de distância SPIKE",
+   "nome_en": "Sensor, Distance, SPIKE",
+   "funcao": "sensor",
+   "funcao_fonte": "Rebrickable part_categories + palavra do nome",
+   "categoria_rebrickable": "Electronics",
+   "kits": {
+    "45678": 1
+   },
+   "impressa": false,
+   "ldraw": "37316.dat",
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "37312-branco",
+   "codigo": "37312",
+   "cor": "Branco",
+   "nome_pt": "Sensor de força SPIKE",
+   "nome_en": "Sensor, Force, SPIKE",
+   "funcao": "sensor",
+   "funcao_fonte": "Rebrickable part_categories + palavra do nome",
+   "categoria_rebrickable": "Electronics",
+   "kits": {
+    "45678": 1
+   },
+   "impressa": false,
+   "ldraw": "37312.dat",
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "95648-cinza-claro",
+   "codigo": "95648",
+   "cor": "Cinza claro",
+   "nome_pt": "Sensor de toque EV3",
+   "nome_en": "Sensor, Touch, EV3 with White Case",
+   "funcao": "sensor",
+   "funcao_fonte": "Rebrickable part_categories + palavra do nome",
+   "categoria_rebrickable": "Electronics",
+   "kits": {
+    "45544": 2
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "99380-cinza-claro",
+   "codigo": "99380",
+   "cor": "Cinza claro",
+   "nome_pt": "Sensor giroscópio EV3",
+   "nome_en": "Sensor, Gyro, EV3 with White Case",
+   "funcao": "sensor",
+   "funcao_fonte": "Rebrickable part_categories + palavra do nome",
+   "categoria_rebrickable": "Electronics",
+   "kits": {
+    "45544": 1
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "95652-cinza-claro",
+   "codigo": "95652",
+   "cor": "Cinza claro",
+   "nome_pt": "Sensor ultrassônico EV3",
+   "nome_en": "Sensor, Ultrasonic, EV3",
+   "funcao": "sensor",
+   "funcao_fonte": "Rebrickable part_categories + palavra do nome",
+   "categoria_rebrickable": "Electronics",
+   "kits": {
+    "45544": 1
+   },
+   "impressa": false,
+   "ldraw": "95652.dat",
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "3069b-laranja",
+   "codigo": "3069b",
+   "cor": "Laranja",
+   "nome_pt": "Placa lisa 1x2",
+   "nome_en": "Tile 1 x 2 with Groove",
+   "funcao": "telha",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Tiles",
+   "kits": {
+    "45345": 6
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "2431-azul-escuro-celeste",
+   "codigo": "2431",
+   "cor": "Azul escuro celeste",
+   "nome_pt": "Placa lisa 1x4",
+   "nome_en": "Tile 1 x 4 with Groove",
+   "funcao": "telha",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Tiles",
+   "kits": {
+    "45345": 5
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "4162-verde",
+   "codigo": "4162",
+   "cor": "Verde",
+   "nome_pt": "Placa lisa 1x8",
+   "nome_en": "Tile 1 x 8 with Groove",
+   "funcao": "telha",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Tiles",
+   "kits": {
+    "45345": 5
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "87079-amarelo",
+   "codigo": "87079",
+   "cor": "Amarelo",
+   "nome_pt": "Placa lisa 2x4",
+   "nome_en": "Tile 2 x 4 with Groove",
+   "funcao": "telha",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Tiles",
+   "kits": {
+    "45345": 3
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "87079-azul",
+   "codigo": "87079",
+   "cor": "Azul",
+   "nome_pt": "Placa lisa 2x4",
+   "nome_en": "Tile 2 x 4 with Groove",
+   "funcao": "telha",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Tiles",
+   "kits": {
+    "45345": 3
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "87079-azul-celeste",
+   "codigo": "87079",
+   "cor": "Azul celeste",
+   "nome_pt": "Placa lisa 2x4",
+   "nome_en": "Tile 2 x 4 with Groove",
+   "funcao": "telha",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Tiles",
+   "kits": {
+    "45345": 2
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "87079-verde",
+   "codigo": "87079",
+   "cor": "Verde",
+   "nome_pt": "Placa lisa 2x4",
+   "nome_en": "Tile 2 x 4 with Groove",
+   "funcao": "telha",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Tiles",
+   "kits": {
+    "45345": 3
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "87079-vermelho",
+   "codigo": "87079",
+   "cor": "Vermelho",
+   "nome_pt": "Placa lisa 2x4",
+   "nome_en": "Tile 2 x 4 with Groove",
+   "funcao": "telha",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Tiles",
+   "kits": {
+    "45345": 3
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "15535-laranja",
+   "codigo": "15535",
+   "cor": "Laranja",
+   "nome_pt": "Placa lisa especial",
+   "nome_en": "Tile Special Round 2 x 2 with Hole",
+   "funcao": "telha",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Tiles Special",
+   "kits": {
+    "45345": 6
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "15535-preto",
+   "codigo": "15535",
+   "cor": "Preto",
+   "nome_pt": "Placa lisa especial",
+   "nome_en": "Tile Special Round 2 x 2 with Hole",
+   "funcao": "telha",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Tiles Special",
+   "kits": {
+    "45678": 4
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "3942c-laranja",
+   "codigo": "3942c",
+   "cor": "Laranja",
+   "nome_pt": "Cone",
+   "nome_en": "Cone 2 x 2 x 2, Open Stud",
+   "funcao": "tijolo",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Bricks Round and Cones",
+   "kits": {
+    "45345": 4
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "59900-magenta",
+   "codigo": "59900",
+   "cor": "Magenta",
+   "nome_pt": "Cone",
+   "nome_en": "Cone 1 x 1 [Top Groove]",
+   "funcao": "tijolo",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Bricks Round and Cones",
+   "kits": {
+    "45345": 6
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "85984-amarelo",
+   "codigo": "85984",
+   "cor": "Amarelo",
+   "nome_pt": "Telhado (tijolo inclinado)",
+   "nome_en": "Brick Sloped 30° 1 x 2 x 2/3",
+   "funcao": "tijolo",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Bricks Sloped",
+   "kits": {
+    "45678": 4
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "3298-azul-escuro-celeste",
+   "codigo": "3298",
+   "cor": "Azul escuro celeste",
+   "nome_pt": "Telhado (tijolo inclinado)",
+   "nome_en": "Brick Sloped 33° 3 x 2",
+   "funcao": "tijolo",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Bricks Sloped",
+   "kits": {
+    "45345": 5
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "4286-laranja-claro",
+   "codigo": "4286",
+   "cor": "Laranja claro",
+   "nome_pt": "Telhado (tijolo inclinado)",
+   "nome_en": "Brick Sloped 33° 3 x 1",
+   "funcao": "tijolo",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Bricks Sloped",
+   "kits": {
+    "45345": 6
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "3039-magenta",
+   "codigo": "3039",
+   "cor": "Magenta",
+   "nome_pt": "Telhado (tijolo inclinado)",
+   "nome_en": "Brick Sloped 45° 2 x 2",
+   "funcao": "tijolo",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Bricks Sloped",
+   "kits": {
+    "45345": 5
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "3040b-verde-vivo",
+   "codigo": "3040b",
+   "cor": "Verde vivo",
+   "nome_pt": "Telhado (tijolo inclinado)",
+   "nome_en": "Brick Sloped 45° 2 x 1 with Bottom Pin",
+   "funcao": "tijolo",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Bricks Sloped",
+   "kits": {
+    "45345": 6
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "3004-azul",
+   "codigo": "3004",
+   "cor": "Azul",
+   "nome_pt": "Tijolo 1x2",
+   "nome_en": "Brick 1 x 2",
+   "funcao": "tijolo",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Bricks",
+   "kits": {
+    "45345": 6
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "3010-laranja",
+   "codigo": "3010",
+   "cor": "Laranja",
+   "nome_pt": "Tijolo 1x4",
+   "nome_en": "Brick 1 x 4",
+   "funcao": "tijolo",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Bricks",
+   "kits": {
+    "45345": 5
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "30145-vermelho",
+   "codigo": "30145",
+   "cor": "Vermelho",
+   "nome_pt": "Tijolo 2x2",
+   "nome_en": "Brick 2 x 2 x 3",
+   "funcao": "tijolo",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Bricks",
+   "kits": {
+    "45345": 5
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "24309-amarelo",
+   "codigo": "24309",
+   "cor": "Amarelo",
+   "nome_pt": "Tijolo curvo",
+   "nome_en": "Brick Curved 3 x 2 No Studs",
+   "funcao": "tijolo",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Bricks Curved",
+   "kits": {
+    "45678": 4
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "47457-azul",
+   "codigo": "47457",
+   "cor": "Azul",
+   "nome_pt": "Tijolo curvo",
+   "nome_en": "Brick Curved 2 x 2 x 2/3 Two Studs and Curved Slope End",
+   "funcao": "tijolo",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Bricks Curved",
+   "kits": {
+    "45345": 2
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "15068-laranja",
+   "codigo": "15068",
+   "cor": "Laranja",
+   "nome_pt": "Tijolo curvo",
+   "nome_en": "Brick Curved 2 x 2 x 2/3",
+   "funcao": "tijolo",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Bricks Curved",
+   "kits": {
+    "45345": 6
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "18653-laranja",
+   "codigo": "18653",
+   "cor": "Laranja",
+   "nome_pt": "Tijolo curvo",
+   "nome_en": "Brick Curved 1 x 3 x 2 Inverted [Inside Bow]",
+   "funcao": "tijolo",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Bricks Curved",
+   "kits": {
+    "45345": 5
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "93273-laranja-claro",
+   "codigo": "93273",
+   "cor": "Laranja claro",
+   "nome_pt": "Tijolo curvo",
+   "nome_en": "Brick Curved 4 x 1 Double, No Studs",
+   "funcao": "tijolo",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Bricks Curved",
+   "kits": {
+    "45345": 3
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "44126-preto",
+   "codigo": "44126",
+   "cor": "Preto",
+   "nome_pt": "Tijolo curvo",
+   "nome_en": "Brick Curved 6 x 2",
+   "funcao": "tijolo",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Bricks Curved",
+   "kits": {
+    "45678": 4
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "42022-vermelho",
+   "codigo": "42022",
+   "cor": "Vermelho",
+   "nome_pt": "Tijolo curvo",
+   "nome_en": "Brick Curved 6 x 1",
+   "funcao": "tijolo",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Bricks Curved",
+   "kits": {
+    "45345": 5
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "41749-azul-celeste",
+   "codigo": "41749",
+   "cor": "Azul celeste",
+   "nome_pt": "Tijolo curvo grande (direito)",
+   "nome_en": "Brick Wedged, Curved 8 x 3 x 2 Open Right",
+   "funcao": "tijolo",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Bricks Wedged",
+   "kits": {
+    "45678": 1
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "41750-azul-celeste",
+   "codigo": "41750",
+   "cor": "Azul celeste",
+   "nome_pt": "Tijolo curvo grande (esquerdo)",
+   "nome_en": "Brick Wedged, Curved 8 x 3 x 2 Open Left",
+   "funcao": "tijolo",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Bricks Wedged",
+   "kits": {
+    "45678": 1
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "39789-amarelo",
+   "codigo": "39789",
+   "cor": "Amarelo",
+   "nome_pt": "Tijolo especial",
+   "nome_en": "Brick Special 2 x 4 with 3 Axle Holes",
+   "funcao": "tijolo",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Bricks Special",
+   "kits": {
+    "45678": 3,
+    "45345": 3
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "39789-azul",
+   "codigo": "39789",
+   "cor": "Azul",
+   "nome_pt": "Tijolo especial",
+   "nome_en": "Brick Special 2 x 4 with 3 Axle Holes",
+   "funcao": "tijolo",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Bricks Special",
+   "kits": {
+    "45678": 3,
+    "45345": 3
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "39789-magenta",
+   "codigo": "39789",
+   "cor": "Magenta",
+   "nome_pt": "Tijolo especial",
+   "nome_en": "Brick Special 2 x 4 with 3 Axle Holes",
+   "funcao": "tijolo",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Bricks Special",
+   "kits": {
+    "45678": 3,
+    "45345": 3
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "39789-verde",
+   "codigo": "39789",
+   "cor": "Verde",
+   "nome_pt": "Tijolo especial",
+   "nome_en": "Brick Special 2 x 4 with 3 Axle Holes",
+   "funcao": "tijolo",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Bricks Special",
+   "kits": {
+    "45678": 3,
+    "45345": 3
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "39789-vermelho",
+   "codigo": "39789",
+   "cor": "Vermelho",
+   "nome_pt": "Tijolo especial",
+   "nome_en": "Brick Special 2 x 4 with 3 Axle Holes",
+   "funcao": "tijolo",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Bricks Special",
+   "kits": {
+    "45678": 3,
+    "45345": 3
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "44865-vermelho",
+   "codigo": "44865",
+   "cor": "Vermelho",
+   "nome_pt": "Tijolo especial",
+   "nome_en": "Brick Special 1 x 2 with Pin - Bottom Stud Holder",
+   "funcao": "tijolo",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Bricks Special",
+   "kits": {
+    "45345": 6
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "87087-vermelho",
+   "codigo": "87087",
+   "cor": "Vermelho",
+   "nome_pt": "Tijolo especial",
+   "nome_en": "Brick Special 1 x 1 with Stud on 1 Side",
+   "funcao": "tijolo",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Bricks Special",
+   "kits": {
+    "45345": 6
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "3941-azul-transparente",
+   "codigo": "3941",
+   "cor": "Azul transparente",
+   "nome_pt": "Tijolo redondo",
+   "nome_en": "Brick Round 2 x 2 with Axle Hole",
+   "funcao": "tijolo",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Bricks Round and Cones",
+   "kits": {
+    "45345": 5
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "3941-branco",
+   "codigo": "3941",
+   "cor": "Branco",
+   "nome_pt": "Tijolo redondo",
+   "nome_en": "Brick Round 2 x 2 with Axle Hole",
+   "funcao": "tijolo",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Bricks Round and Cones",
+   "kits": {
+    "45678": 6
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "48092-laranja-claro",
+   "codigo": "48092",
+   "cor": "Laranja claro",
+   "nome_pt": "Tijolo redondo",
+   "nome_en": "Brick Round Corner 4 x 4 Macaroni Wide with 3 Studs",
+   "funcao": "tijolo",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Bricks Round and Cones",
+   "kits": {
+    "45345": 4
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "3941-verde",
+   "codigo": "3941",
+   "cor": "Verde",
+   "nome_pt": "Tijolo redondo",
+   "nome_en": "Brick Round 2 x 2 with Axle Hole",
+   "funcao": "tijolo",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Bricks Round and Cones",
+   "kits": {
+    "45345": 5
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "33299a-preto",
+   "codigo": "33299a",
+   "cor": "Preto",
+   "nome_pt": "Manivela",
+   "nome_en": "Technic Beam 3 x 0.5 Liftarm with Boss and Pin / Crank",
+   "funcao": "viga",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Beams Special",
+   "kits": {
+    "45544": 2
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "39790-azul-celeste",
+   "codigo": "39790",
+   "cor": "Azul celeste",
+   "nome_pt": "Quadro 11x15",
+   "nome_en": "Technic Beam Frame 11 x 15",
+   "funcao": "viga",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Beams Special",
+   "kits": {
+    "45678": 2
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "39369-amarelo",
+   "codigo": "39369",
+   "cor": "Amarelo",
+   "nome_pt": "Quadro 11x19",
+   "nome_en": "Technic Base Frame 11 x 19",
+   "funcao": "viga",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Beams Special",
+   "kits": {
+    "45678": 2
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "64178-cinza-claro",
+   "codigo": "64178",
+   "cor": "Cinza claro",
+   "nome_pt": "Quadro 5x11",
+   "nome_en": "Technic Beam 5 x 11 with 3 x 5 Opening Frame Thick",
+   "funcao": "viga",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Beams Special",
+   "kits": {
+    "45544": 1
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "64179-cinza-claro",
+   "codigo": "64179",
+   "cor": "Cinza claro",
+   "nome_pt": "Quadro 5x7",
+   "nome_en": "Technic Beam Frame 5 x 7 with 3 x 5 Opening Thick",
+   "funcao": "viga",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Beams Special",
+   "kits": {
+    "45544": 3
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "64179-preto",
+   "codigo": "64179",
+   "cor": "Preto",
+   "nome_pt": "Quadro 5x7",
+   "nome_en": "Technic Beam Frame 5 x 7 with 3 x 5 Opening Thick",
+   "funcao": "viga",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Beams Special",
+   "kits": {
+    "45678": 2
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "39794-magenta",
+   "codigo": "39794",
+   "cor": "Magenta",
+   "nome_pt": "Quadro 7x11",
+   "nome_en": "Technic Beam Frame 7 x 11",
+   "funcao": "viga",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Beams Special",
+   "kits": {
+    "45678": 2
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "3895-laranja-claro",
+   "codigo": "3895",
+   "cor": "Laranja claro",
+   "nome_pt": "Tijolo Technic 1x12",
+   "nome_en": "Technic Brick 1 x 12 [11 Pin Holes]",
+   "funcao": "viga",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Bricks",
+   "kits": {
+    "45345": 2
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "3703-verde-vivo",
+   "codigo": "3703",
+   "cor": "Verde vivo",
+   "nome_pt": "Tijolo Technic 1x16",
+   "nome_en": "Technic Brick 1 x 16 [15 Pin Holes]",
+   "funcao": "viga",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Bricks",
+   "kits": {
+    "45345": 2
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "3700-laranja",
+   "codigo": "3700",
+   "cor": "Laranja",
+   "nome_pt": "Tijolo Technic 1x2",
+   "nome_en": "Technic Brick 1 x 2 [1 Pin Hole]",
+   "funcao": "viga",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Bricks",
+   "kits": {
+    "45345": 6
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "32064a-amarelo",
+   "codigo": "32064a",
+   "cor": "Amarelo",
+   "nome_pt": "Tijolo Technic 1x2 com furo de eixo e pino",
+   "nome_en": "Technic Brick 1 x 2 with Axle Hole Type 1 [+ Opening] and Bottom Pin",
+   "funcao": "viga",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Bricks",
+   "kits": {
+    "45345": 6
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "3701-magenta",
+   "codigo": "3701",
+   "cor": "Magenta",
+   "nome_pt": "Tijolo Technic 1x4",
+   "nome_en": "Technic Brick 1 x 4 [3 Pin Holes]",
+   "funcao": "viga",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Bricks",
+   "kits": {
+    "45345": 5
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "3702-azul-escuro-celeste",
+   "codigo": "3702",
+   "cor": "Azul escuro celeste",
+   "nome_pt": "Tijolo Technic 1x8",
+   "nome_en": "Technic Brick 1 x 8 [7 Pin Holes]",
+   "funcao": "viga",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Bricks",
+   "kits": {
+    "45345": 5
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "32525-cinza-claro",
+   "codigo": "32525",
+   "cor": "Cinza claro",
+   "nome_pt": "Viga 11 furos",
+   "nome_en": "Technic Beam 1 x 11 Thick",
+   "funcao": "viga",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Beams",
+   "kits": {
+    "45544": 4
+   },
+   "impressa": false,
+   "ldraw": "32525.dat",
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "32525-magenta",
+   "codigo": "32525",
+   "cor": "Magenta",
+   "nome_pt": "Viga 11 furos",
+   "nome_en": "Technic Beam 1 x 11 Thick",
+   "funcao": "viga",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Beams",
+   "kits": {
+    "45678": 5,
+    "45345": 2
+   },
+   "impressa": false,
+   "ldraw": "32525.dat",
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "41239-azul-celeste",
+   "codigo": "41239",
+   "cor": "Azul celeste",
+   "nome_pt": "Viga 13 furos",
+   "nome_en": "Technic Beam 1 x 13 Thick",
+   "funcao": "viga",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Beams",
+   "kits": {
+    "45678": 4
+   },
+   "impressa": false,
+   "ldraw": "41239.dat",
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "41239-cinza-claro",
+   "codigo": "41239",
+   "cor": "Cinza claro",
+   "nome_pt": "Viga 13 furos",
+   "nome_en": "Technic Beam 1 x 13 Thick",
+   "funcao": "viga",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Beams",
+   "kits": {
+    "45544": 6
+   },
+   "impressa": false,
+   "ldraw": "41239.dat",
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "32278-branco",
+   "codigo": "32278",
+   "cor": "Branco",
+   "nome_pt": "Viga 15 furos",
+   "nome_en": "Technic Beam 1 x 15 Thick",
+   "funcao": "viga",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Beams",
+   "kits": {
+    "45544": 6
+   },
+   "impressa": false,
+   "ldraw": "32278.dat",
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "32278-preto",
+   "codigo": "32278",
+   "cor": "Preto",
+   "nome_pt": "Viga 15 furos",
+   "nome_en": "Technic Beam 1 x 15 Thick",
+   "funcao": "viga",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Beams",
+   "kits": {
+    "45678": 6
+   },
+   "impressa": false,
+   "ldraw": "32278.dat",
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "60483-azul-celeste",
+   "codigo": "60483",
+   "cor": "Azul celeste",
+   "nome_pt": "Viga 2 furos (pino + eixo)",
+   "nome_en": "Technic Beam 1 x 2 Thick with Pin Hole and Axle Hole",
+   "funcao": "viga",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Beams",
+   "kits": {
+    "45678": 4
+   },
+   "impressa": false,
+   "ldraw": "60483.dat",
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "60483-preto",
+   "codigo": "60483",
+   "cor": "Preto",
+   "nome_pt": "Viga 2 furos (pino + eixo)",
+   "nome_en": "Technic Beam 1 x 2 Thick with Pin Hole and Axle Hole",
+   "funcao": "viga",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Beams",
+   "kits": {
+    "45544": 4
+   },
+   "impressa": false,
+   "ldraw": "60483.dat",
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "32523-amarelo",
+   "codigo": "32523",
+   "cor": "Amarelo",
+   "nome_pt": "Viga 3 furos",
+   "nome_en": "Technic Beam 1 x 3 Thick",
+   "funcao": "viga",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Beams",
+   "kits": {
+    "45544": 4,
+    "45678": 8
+   },
+   "impressa": false,
+   "ldraw": "32523.dat",
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "32523-azul",
+   "codigo": "32523",
+   "cor": "Azul",
+   "nome_pt": "Viga 3 furos",
+   "nome_en": "Technic Beam 1 x 3 Thick",
+   "funcao": "viga",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Beams",
+   "kits": {
+    "45544": 4
+   },
+   "impressa": false,
+   "ldraw": "32523.dat",
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "32523-preto",
+   "codigo": "32523",
+   "cor": "Preto",
+   "nome_pt": "Viga 3 furos",
+   "nome_en": "Technic Beam 1 x 3 Thick",
+   "funcao": "viga",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Beams",
+   "kits": {
+    "45544": 2
+   },
+   "impressa": false,
+   "ldraw": "32523.dat",
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "32523-verde",
+   "codigo": "32523",
+   "cor": "Verde",
+   "nome_pt": "Viga 3 furos",
+   "nome_en": "Technic Beam 1 x 3 Thick",
+   "funcao": "viga",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Beams",
+   "kits": {
+    "45544": 4
+   },
+   "impressa": false,
+   "ldraw": "32523.dat",
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "32523-vermelho",
+   "codigo": "32523",
+   "cor": "Vermelho",
+   "nome_pt": "Viga 3 furos",
+   "nome_en": "Technic Beam 1 x 3 Thick",
+   "funcao": "viga",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Beams",
+   "kits": {
+    "45544": 4
+   },
+   "impressa": false,
+   "ldraw": "32523.dat",
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "14720-cinza-claro",
+   "codigo": "14720",
+   "cor": "Cinza claro",
+   "nome_pt": "Viga 3x5 com furos em 90°",
+   "nome_en": "Technic Beam 3 x 5 Thick [90° Offset Centre Beam Holes]",
+   "funcao": "viga",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Beams Special",
+   "kits": {
+    "45678": 4
+   },
+   "impressa": false,
+   "ldraw": "14720.dat",
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "32316-cinza-claro",
+   "codigo": "32316",
+   "cor": "Cinza claro",
+   "nome_pt": "Viga 5 furos",
+   "nome_en": "Technic Beam 1 x 5 Thick",
+   "funcao": "viga",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Beams",
+   "kits": {
+    "45544": 4
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "32316-magenta",
+   "codigo": "32316",
+   "cor": "Magenta",
+   "nome_pt": "Viga 5 furos",
+   "nome_en": "Technic Beam 1 x 5 Thick",
+   "funcao": "viga",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Beams",
+   "kits": {
+    "45678": 5
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "32524-azul",
+   "codigo": "32524",
+   "cor": "Azul",
+   "nome_pt": "Viga 7 furos",
+   "nome_en": "Technic Beam 1 x 7 Thick",
+   "funcao": "viga",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Beams",
+   "kits": {
+    "45345": 3
+   },
+   "impressa": false,
+   "ldraw": "32524.dat",
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "32524-azul-celeste",
+   "codigo": "32524",
+   "cor": "Azul celeste",
+   "nome_pt": "Viga 7 furos",
+   "nome_en": "Technic Beam 1 x 7 Thick",
+   "funcao": "viga",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Beams",
+   "kits": {
+    "45678": 7
+   },
+   "impressa": false,
+   "ldraw": "32524.dat",
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "32524-cinza-claro",
+   "codigo": "32524",
+   "cor": "Cinza claro",
+   "nome_pt": "Viga 7 furos",
+   "nome_en": "Technic Beam 1 x 7 Thick",
+   "funcao": "viga",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Beams",
+   "kits": {
+    "45544": 4
+   },
+   "impressa": false,
+   "ldraw": "32524.dat",
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "40490-cinza-claro",
+   "codigo": "40490",
+   "cor": "Cinza claro",
+   "nome_pt": "Viga 9 furos",
+   "nome_en": "Technic Beam 1 x 9 Thick",
+   "funcao": "viga",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Beams",
+   "kits": {
+    "45544": 6
+   },
+   "impressa": false,
+   "ldraw": "40490.dat",
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "40490-preto",
+   "codigo": "40490",
+   "cor": "Preto",
+   "nome_pt": "Viga 9 furos",
+   "nome_en": "Technic Beam 1 x 9 Thick",
+   "funcao": "viga",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Beams",
+   "kits": {
+    "45678": 5
+   },
+   "impressa": false,
+   "ldraw": "40490.dat",
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "39793-magenta",
+   "codigo": "39793",
+   "cor": "Magenta",
+   "nome_pt": "Viga conectora 3x3",
+   "nome_en": "Technic Connector Beam 3 x 3",
+   "funcao": "viga",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Beams",
+   "kits": {
+    "45678": 8,
+    "45345": 2
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "39793-preto",
+   "codigo": "39793",
+   "cor": "Preto",
+   "nome_pt": "Viga conectora 3x3",
+   "nome_en": "Technic Connector Beam 3 x 3",
+   "funcao": "viga",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Beams",
+   "kits": {
+    "45678": 6
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "32009-branco",
+   "codigo": "32009",
+   "cor": "Branco",
+   "nome_pt": "Viga dobrada 11,5 furos",
+   "nome_en": "Technic Beam 1 x 11.5 Double Bent Thick",
+   "funcao": "viga",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Beams",
+   "kits": {
+    "45544": 4
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "32009-preto",
+   "codigo": "32009",
+   "cor": "Preto",
+   "nome_pt": "Viga dobrada 11,5 furos",
+   "nome_en": "Technic Beam 1 x 11.5 Double Bent Thick",
+   "funcao": "viga",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Beams",
+   "kits": {
+    "45678": 5
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "32348-branco",
+   "codigo": "32348",
+   "cor": "Branco",
+   "nome_pt": "Viga dobrada 7 furos",
+   "nome_en": "Technic Beam 1 x 7 Bent (4 - 4) Thick",
+   "funcao": "viga",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Beams",
+   "kits": {
+    "45544": 6
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "32348-preto",
+   "codigo": "32348",
+   "cor": "Preto",
+   "nome_pt": "Viga dobrada 7 furos",
+   "nome_en": "Technic Beam 1 x 7 Bent (4 - 4) Thick",
+   "funcao": "viga",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Beams",
+   "kits": {
+    "45678": 5
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "32271-amarelo",
+   "codigo": "32271",
+   "cor": "Amarelo",
+   "nome_pt": "Viga dobrada 9 furos",
+   "nome_en": "Technic Beam 1 x 9 Bent (7 - 3) Thick",
+   "funcao": "viga",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Beams",
+   "kits": {
+    "45678": 4
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "32271-cinza-claro",
+   "codigo": "32271",
+   "cor": "Cinza claro",
+   "nome_pt": "Viga dobrada 9 furos",
+   "nome_en": "Technic Beam 1 x 9 Bent (7 - 3) Thick",
+   "funcao": "viga",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Beams",
+   "kits": {
+    "45544": 4
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "6629-laranja",
+   "codigo": "6629",
+   "cor": "Laranja",
+   "nome_pt": "Viga dobrada 9 furos",
+   "nome_en": "Technic Beam 1 x 9 Bent (6 - 4) Thick",
+   "funcao": "viga",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Beams",
+   "kits": {
+    "45345": 3
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "6629-preto",
+   "codigo": "6629",
+   "cor": "Preto",
+   "nome_pt": "Viga dobrada 9 furos",
+   "nome_en": "Technic Beam 1 x 9 Bent (6 - 4) Thick",
+   "funcao": "viga",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Beams",
+   "kits": {
+    "45544": 4
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "32140-amarelo",
+   "codigo": "32140",
+   "cor": "Amarelo",
+   "nome_pt": "Viga em L 2x4",
+   "nome_en": "Technic Beam 2 x 4 L-Shape Thick",
+   "funcao": "viga",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Beams",
+   "kits": {
+    "45678": 5
+   },
+   "impressa": false,
+   "ldraw": "32140.dat",
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "32140-vermelho",
+   "codigo": "32140",
+   "cor": "Vermelho",
+   "nome_pt": "Viga em L 2x4",
+   "nome_en": "Technic Beam 2 x 4 L-Shape Thick",
+   "funcao": "viga",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Beams",
+   "kits": {
+    "45544": 6
+   },
+   "impressa": false,
+   "ldraw": "32140.dat",
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "32526-azul-celeste",
+   "codigo": "32526",
+   "cor": "Azul celeste",
+   "nome_pt": "Viga em L 3x5",
+   "nome_en": "Technic Beam 3 x 5 L-Shape Thick",
+   "funcao": "viga",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Beams",
+   "kits": {
+    "45678": 5
+   },
+   "impressa": false,
+   "ldraw": "32526.dat",
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "32526-branco",
+   "codigo": "32526",
+   "cor": "Branco",
+   "nome_pt": "Viga em L 3x5",
+   "nome_en": "Technic Beam 3 x 5 L-Shape Thick",
+   "funcao": "viga",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Beams",
+   "kits": {
+    "45544": 4
+   },
+   "impressa": false,
+   "ldraw": "32526.dat",
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "32526-cinza-claro",
+   "codigo": "32526",
+   "cor": "Cinza claro",
+   "nome_pt": "Viga em L 3x5",
+   "nome_en": "Technic Beam 3 x 5 L-Shape Thick",
+   "funcao": "viga",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Beams",
+   "kits": {
+    "45544": 2
+   },
+   "impressa": false,
+   "ldraw": "32526.dat",
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "32526-verde-vivo",
+   "codigo": "32526",
+   "cor": "Verde vivo",
+   "nome_pt": "Viga em L 3x5",
+   "nome_en": "Technic Beam 3 x 5 L-Shape Thick",
+   "funcao": "viga",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Beams",
+   "kits": {
+    "45345": 3
+   },
+   "impressa": false,
+   "ldraw": "32526.dat",
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "60484-preto",
+   "codigo": "60484",
+   "cor": "Preto",
+   "nome_pt": "Viga em T 3x3",
+   "nome_en": "Technic Beam 3 x 3 T-Shape Thick",
+   "funcao": "viga",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Beams",
+   "kits": {
+    "45544": 4,
+    "45678": 5
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "32449-preto",
+   "codigo": "32449",
+   "cor": "Preto",
+   "nome_pt": "Viga fina 4 furos",
+   "nome_en": "Technic Beam 1 x 4 Thin",
+   "funcao": "viga",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Beams",
+   "kits": {
+    "45544": 2
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "99773-cinza-claro",
+   "codigo": "99773",
+   "cor": "Cinza claro",
+   "nome_pt": "Viga triângulo",
+   "nome_en": "Technic Beam Triangle Thin [Type II]",
+   "funcao": "viga",
+   "funcao_fonte": "Rebrickable part_categories",
+   "categoria_rebrickable": "Technic Beams",
+   "kits": {
+    "45544": 4
+   },
+   "impressa": false,
+   "ldraw": null,
+   "observacoes": [],
+   "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
+  },
+  {
+   "id": "impressa-cremalheira-com-apoio",
+   "codigo": "3D-001",
+   "cor": "Turquesa (filamento)",
+   "nome_pt": "Cremalheira com apoio (impressa em 3D)",
+   "nome_en": null,
+   "funcao": "peca_impressa",
+   "funcao_fonte": "Peça impressa registrada pelo Rian (24/10/2026)",
+   "categoria_rebrickable": null,
+   "kits": {},
+   "impressa": true,
+   "ldraw": null,
+   "pasta": "dados/pecas_impressas/cremalheira_com_apoio/",
+   "observacoes": [
+    {
+     "texto": "106 x 16 x 8 mm, baseada na peça LEGO 64781; 2 unidades emendadas.",
+     "fonte": "dados/pecas_impressas/cremalheira_com_apoio/LEIA-ME.md"
+    },
+    {
+     "texto": "Engrena com a engrenagem preta de 12 dentes 32270, que pode ser usada nos dois kits (EV3 e SPIKE Prime).",
+     "fonte": "Rian, 31/10/2026 (docs/decisoes.md, item 12.13)"
+    },
+    {
+     "texto": "Em uso no SPIKE Prime. Teste no EV3 ainda não registrado.",
+     "fonte": "Rian, 24/10 e 31/10/2026"
+    }
+   ],
+   "origem": "Peça impressa do Colégio Galle"
+  }
+ ]
+}

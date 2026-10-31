@@ -34,5 +34,19 @@ button{font:inherit;min-height:48px;padding:0 1rem;border-radius:.6rem;border:2p
 .fotos figure{margin:0}
 .fotos img{width:100%;height:auto;display:block;border-radius:.5rem}
 .fotos figcaption{font-size:.75rem;line-height:1.2;margin-top:.2rem}
+.topo h1 a{color:#fff;text-decoration:none}
+.chips{display:flex;flex-wrap:wrap;gap:.5rem;margin:.4rem 0}
+.chip{border-radius:2rem;padding:0 1.1rem}
+.chip[aria-pressed=true]{background:var(--az);border-color:var(--az);color:var(--fundo)}
+.chip[aria-pressed=true]::before{content:"✓ "}
+a.peca{color:inherit;text-decoration:none}
+.detalhe{display:flex;flex-wrap:wrap;gap:1rem;align-items:flex-start}
+.foto.grande{width:8rem;height:8rem}
+dl{display:grid;grid-template-columns:auto 1fr;gap:.2rem .8rem;margin:0}
+dt{font-weight:700}
+dd{margin:0}
+.tabela{border-collapse:collapse;width:100%;max-width:36rem}
+.tabela th,.tabela td{border:2px solid var(--borda);padding:.4rem .6rem;text-align:left}
+h3{font-size:1.1rem;margin:1.2rem 0 .4rem}
 @media (min-width:700px){:root{font-size:22px}}
 @media (orientation:landscape) and (max-height:500px){:root{font-size:18px}.topo{padding-top:.3rem;padding-bottom:.3rem}}

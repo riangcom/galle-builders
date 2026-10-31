@@ -4,8 +4,7 @@ const VERSAO = CONFIG.VERSAO;
 const CACHE = "plataforma-" + VERSAO;
 const ARQUIVOS = ["./", "index.html", "styles.css", "app.js", "config.js", "manifest.webmanifest",
   "icones/icone-192.png", "icones/icone-512.png", "icones/icone-180.png"]
-  .concat(CONFIG.KITS.map(k => "dados/" + k.arquivo))
-  .concat(["dados/referencias.json"], [1, 2, 3, 4, 5, 6, 7, 8, 9].map(n => "referencias/mi-pneus/mi-pneus-0" + n + ".jpg"));
+  .concat(["dados/catalogo.json", "dados/provas.json", "dados/referencias.json"], [1, 2, 3, 4, 5, 6, 7, 8, 9].map(n => "referencias/mi-pneus/mi-pneus-0" + n + ".jpg"));
 
 self.addEventListener("install", e => {
   // no-cache: nunca monta o cache novo a partir de cópia velha do navegador
