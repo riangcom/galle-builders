@@ -1,0 +1,56 @@
+{
+  "esquema": "referencia/1",
+  "atualizado": "2026-10-24",
+  "itens": [
+    {
+      "id": "mi-pneus",
+      "nome": "MI-Pneus",
+      "kit": "prime",
+      "kit_set": "45678",
+      "tipo": "Robô de competição",
+      "prova": "FIRA regional, 1 dia, Missão Impossível Dia 1 (M1: Carregar Pneus)",
+      "resultado": "Relato do Rian: o robô concluiu a missão. Pontuação e tempo não informados.",
+      "resumo": "Robô de SPIKE Prime com pinça frontal para pegar pneus, duas rodas de borracha na frente e rodízios de esfera atrás.",
+      "fotos": [
+        {
+          "arquivo": "referencias/mi-pneus/mi-pneus-01.jpg",
+          "legenda": "Vista frontal, com a pinça aberta sobre a pista"
+        },
+        {
+          "arquivo": "referencias/mi-pneus/mi-pneus-02.jpg",
+          "legenda": "Vista lateral, pinça à esquerda"
+        },
+        {
+          "arquivo": "referencias/mi-pneus/mi-pneus-03.jpg",
+          "legenda": "Vista traseira"
+        },
+        {
+          "arquivo": "referencias/mi-pneus/mi-pneus-04.jpg",
+          "legenda": "Vista lateral com a pinça estendida"
+        },
+        {
+          "arquivo": "referencias/mi-pneus/mi-pneus-05.jpg",
+          "legenda": "Vista lateral alta, com o hub e os rodízios"
+        },
+        {
+          "arquivo": "referencias/mi-pneus/mi-pneus-06.jpg",
+          "legenda": "Vista de cima, com a pista de fita preta e faixa vermelha"
+        },
+        {
+          "arquivo": "referencias/mi-pneus/mi-pneus-07.jpg",
+          "legenda": "Detalhe da cremalheira verde-água engrenando com uma engrenagem preta (acionamento provável)"
+        },
+        {
+          "arquivo": "referencias/mi-pneus/mi-pneus-08.jpg",
+          "legenda": "Tela do SPIKE no iPad com o programa de blocos (provavelmente do MI-Pneus, a confirmar)"
+        },
+        {
+          "arquivo": "referencias/mi-pneus/mi-pneus-09.jpg",
+          "legenda": "Tela de conexão do hub \"Gallle\": motores nas portas A, B, D e F"
+        }
+      ],
+      "ficha": "referencias/spike_prime/mi_pneus.md",
+      "status": "[NÃO TESTADO NO ROBÔ] Sem ficha de teste T-xx. Não é montagem do app."
+    }
+  ]
+}
