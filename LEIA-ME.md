@@ -35,3 +35,4 @@ No navegador embutido (desktop): as três telas carregam, busca (nome e código)
 - Kits marcados ficam guardados só no aparelho (localStorage); se o navegador limpar, volta ao padrão EV3 + Prime.
 - Testado no Chromium (celular 390 px e tablet 820 px): telas, busca, filtros, links antigos e modo offline sem erros no console. **Falta testar no iPad A16 e no Samsung.**
 - Publicação: o repositório público `riangcom/galle-builders` recebe a pasta `app\` (fotos com rostos de alunos pixelados e sem metadados).
+- 0.2.1 (31/10): 4 cores traduzidas no catálogo. 0.2.2 (31/10): botão **Atualizar** no rodapé (compara com a versão publicada; se o aparelho travar numa cópia velha, limpa o cache do app e recarrega); versão nova já baixada é aplicada sozinha ao reabrir o app; o service worker deixa passar as consultas `no-store`. Motivo: celular do Rian preso na 0.1.8.

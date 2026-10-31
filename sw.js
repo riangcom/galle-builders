@@ -20,6 +20,7 @@ self.addEventListener("activate", e => {
 self.addEventListener("message", e => { if (e.data === "PULAR_ESPERA") self.skipWaiting(); });
 self.addEventListener("fetch", e => {
   if (e.request.method !== "GET" || new URL(e.request.url).origin !== location.origin) return;
+  if (e.request.cache === "no-store") return; // botão "Atualizar" consulta a versão publicada direto na internet
   e.respondWith(caches.open(CACHE).then(c => c.match(e.request, { ignoreSearch: true }).then(r => r ||
     fetch(e.request).catch(() => e.request.mode === "navigate" ? c.match("index.html") : Response.error()))));
 });

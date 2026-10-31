@@ -200,19 +200,48 @@ async function rotear() {
 /* ---------- offline e atualização ---------- */
 function rede() { $("#rodape-rede").textContent = navigator.onLine ? "online" : "sem internet"; }
 function iniciarSW() {
-  if (!("serviceWorker" in navigator)) return;
+  if (!("serviceWorker" in navigator)) { $("#btn-verificar").hidden = true; return; }
   navigator.serviceWorker.register("sw.js", { updateViaCache: "none" }).then(reg => {
-    const avisar = w => { $("#aviso-atualizacao").hidden = false;
-      $("#btn-atualizar").onclick = () => w.postMessage("PULAR_ESPERA"); };
-    if (reg.waiting && navigator.serviceWorker.controller) avisar(reg.waiting);
+    const aplicar = w => w.postMessage("PULAR_ESPERA");
+    const avisar = w => { $("#aviso-atualizacao").hidden = false; $("#btn-atualizar").onclick = () => aplicar(w); };
+    // Versão nova já baixada numa visita anterior: aplica direto ao abrir (o app não guarda nada que se perca).
+    if (reg.waiting && navigator.serviceWorker.controller) aplicar(reg.waiting);
     reg.addEventListener("updatefound", () => { const n = reg.installing;
-      n.addEventListener("statechange", () => { if (n.state === "installed" && navigator.serviceWorker.controller) avisar(n); }); });
+      n.addEventListener("statechange", () => {
+        if (n.state === "installed" && navigator.serviceWorker.controller) avisar(n);
+        if (n.state === "redundant") estado("Não consegui baixar a versão nova. Toque em \u201cAtualizar\u201d de novo com internet."); }); });
     const verificar = () => reg.update().catch(() => {});
     document.addEventListener("visibilitychange", () => { if (!document.hidden) verificar(); });
     setInterval(verificar, 30 * 60 * 1000);
-  }).catch(() => {});
+    $("#btn-verificar").onclick = () => verificarAgora(reg);
+  }).catch(e => estado("Modo sem internet indisponível neste navegador (" + e.message + ")."));
   let recarregou = false;
   navigator.serviceWorker.addEventListener("controllerchange", () => { if (!recarregou) { recarregou = true; location.reload(); } });
+}
+function estado(t) { $("#rodape-estado").textContent = t; }
+/* Botão "Atualizar" do rodapé: compara com a versão publicada e, se o aparelho travar numa cópia velha, limpa e recarrega. */
+async function verificarAgora(reg) {
+  if (!navigator.onLine) { estado("Sem internet: conecte e toque de novo."); return; }
+  estado("Verificando...");
+  let publicada = null;
+  try { const t = await (await fetch("config.js?v=" + Date.now(), { cache: "no-store" })).text();
+    publicada = (t.match(/VERSAO:\s*"([^"]+)"/) || [])[1] || null; } catch (e) {}
+  if (!publicada) { estado("Não consegui falar com o servidor. Tente de novo."); return; }
+  if (publicada === CONFIG.VERSAO) { estado("Você já está na versão mais nova (" + publicada + ")."); return; }
+  estado("Baixando a versão " + publicada + "...");
+  try {
+    await reg.update();
+    const w = reg.waiting || await new Promise((ok, falha) => { const n = reg.installing; if (!n) return falha(new Error("sem instalação"));
+      n.addEventListener("statechange", () => { if (n.state === "installed") ok(n); if (n.state === "redundant") falha(new Error("falhou")); }); });
+    w.postMessage("PULAR_ESPERA");
+  } catch (e) { // último recurso: tira o service worker e o cache velho; o app recarrega da internet
+    estado("Limpando a cópia antiga...");
+    await reg.unregister().catch(() => {});
+    if (window.caches) for (const k of await caches.keys()) await caches.delete(k);
+    // renova também o cache comum do navegador, senão ele pode devolver os arquivos velhos
+    await Promise.all(["./", "index.html", "config.js", "app.js", "styles.css", "sw.js"].map(u => fetch(u, { cache: "reload" }).catch(() => {})));
+    location.reload();
+  }
 }
 
 document.title = CONFIG.NOME_APP;

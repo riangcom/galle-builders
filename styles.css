@@ -25,6 +25,10 @@ button{font:inherit;min-height:48px;padding:0 1rem;border-radius:.6rem;border:2p
 .qtds{display:flex;flex-wrap:wrap;gap:.3rem .8rem;margin:.3rem 0 0;font-size:.85rem}
 .qtds b{font-size:1rem}
 .rodape{position:fixed;left:0;right:0;bottom:0;display:flex;justify-content:space-between;gap:1rem;padding:.5rem 1rem;padding-bottom:calc(.5rem + env(safe-area-inset-bottom));background:var(--suave);border-top:2px solid var(--borda);font-size:.8rem}
+.rodape{align-items:center;flex-wrap:wrap}
+.rodape .mini{min-height:40px;padding:0 .8rem;font-size:.8rem}
+#rodape-estado{flex:1 1 100%;order:5}
+#rodape-estado:empty{display:none}
 .atualizacao{position:sticky;top:0;z-index:10;background:#ffb000}
 .atualizacao[hidden]{display:none}
 .atualizacao button{width:100%;min-height:56px;background:#ffb000;color:#000;border:0;border-radius:0;font-size:1rem}
