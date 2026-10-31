@@ -1332,7 +1332,16 @@
    },
    "impressa": false,
    "ldraw": null,
-   "observacoes": [],
+   "observacoes": [
+    {
+     "texto": "2100 mAh / 7,3 V; carrega dentro do hub pelo micro-USB; mais de 500 ciclos (no reposto vendido como 45610).",
+     "fonte": "Ficha técnica oficial LEGO Education (referencias/spike_prime/specs_oficiais.md)"
+    },
+    {
+     "texto": "Guardar a 15-25 °C e carregar pelo menos a cada 6 meses; não guardar o hub com a bateria vazia.",
+     "fonte": "Ficha técnica oficial LEGO Education (referencias/spike_prime/specs_oficiais.md)"
+    }
+   ],
    "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
   },
   {
@@ -1383,7 +1392,20 @@
    },
    "impressa": false,
    "ldraw": "45601.dat",
-   "observacoes": [],
+   "observacoes": [
+    {
+     "texto": "88 x 56 x 32 mm, 63 g sem bateria.",
+     "fonte": "Ficha técnica oficial LEGO Education (referencias/spike_prime/specs_oficiais.md)"
+    },
+    {
+     "texto": "6 portas (A a F); qualquer porta serve para motor; E e F preparadas para alta velocidade.",
+     "fonte": "Ficha técnica oficial LEGO Education (referencias/spike_prime/specs_oficiais.md)"
+    },
+    {
+     "texto": "Giroscópio e acelerômetro de 3 eixos.",
+     "fonte": "Ficha técnica oficial LEGO Education (referencias/spike_prime/specs_oficiais.md)"
+    }
+   ],
    "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
   },
   {
@@ -1604,7 +1626,16 @@
    },
    "impressa": false,
    "ldraw": "54675.dat",
-   "observacoes": [],
+   "observacoes": [
+    {
+     "texto": "175 rpm sem carga; 8 Ncm em uso contínuo (135 rpm); trava em 25 Ncm.",
+     "fonte": "Ficha técnica oficial LEGO Education (referencias/spike_prime/specs_oficiais.md)"
+    },
+    {
+     "texto": "Sensor de rotação de 360 contagens por volta, precisão de ±3° (com a folga). Cabo de 250 mm.",
+     "fonte": "Ficha técnica oficial LEGO Education (referencias/spike_prime/specs_oficiais.md)"
+    }
+   ],
    "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
   },
   {
@@ -1638,7 +1669,16 @@
    },
    "impressa": false,
    "ldraw": null,
-   "observacoes": [],
+   "observacoes": [
+    {
+     "texto": "185 rpm sem carga; 3,5 Ncm em uso contínuo (135 rpm); trava em 18 Ncm.",
+     "fonte": "Ficha técnica oficial LEGO Education (referencias/spike_prime/specs_oficiais.md)"
+    },
+    {
+     "texto": "Sensor de rotação de 360 contagens por volta, precisão de ±3° (com a folga). Cabo de 250 mm.",
+     "fonte": "Ficha técnica oficial LEGO Education (referencias/spike_prime/specs_oficiais.md)"
+    }
+   ],
    "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
   },
   {
@@ -3105,7 +3145,16 @@
    },
    "impressa": false,
    "ldraw": "37308.dat",
-   "observacoes": [],
+   "observacoes": [
+    {
+     "texto": "Distância ideal de leitura: 16 mm do objeto ou do chão.",
+     "fonte": "Ficha técnica oficial LEGO Education (referencias/spike_prime/specs_oficiais.md)"
+    },
+    {
+     "texto": "Lê cor, reflexão e luz ambiente; cabo de 250 mm.",
+     "fonte": "Ficha técnica oficial LEGO Education (referencias/spike_prime/specs_oficiais.md)"
+    }
+   ],
    "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
   },
   {
@@ -3122,7 +3171,16 @@
    },
    "impressa": false,
    "ldraw": "37316.dat",
-   "observacoes": [],
+   "observacoes": [
+    {
+     "texto": "Mede de 50 a 2000 mm (±20 mm); não mede abaixo de 5 cm. Ângulo de ±35°.",
+     "fonte": "Ficha técnica oficial LEGO Education (referencias/spike_prime/specs_oficiais.md)"
+    },
+    {
+     "texto": "Cabo de 250 mm, fixo no sensor.",
+     "fonte": "Ficha técnica oficial LEGO Education (referencias/spike_prime/specs_oficiais.md)"
+    }
+   ],
    "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
   },
   {
@@ -3139,7 +3197,16 @@
    },
    "impressa": false,
    "ldraw": "37312.dat",
-   "observacoes": [],
+   "observacoes": [
+    {
+     "texto": "Toque com 0,5 a 1 N; força de 2,5 a 10 N (leitura máxima 10 N), curso até 8 mm.",
+     "fonte": "Ficha técnica oficial LEGO Education (referencias/spike_prime/specs_oficiais.md)"
+    },
+    {
+     "texto": "Cabo de 250 mm, fixo no sensor.",
+     "fonte": "Ficha técnica oficial LEGO Education (referencias/spike_prime/specs_oficiais.md)"
+    }
+   ],
    "origem": "Lista do kit segundo o Rebrickable (não há contagem de maleta)"
   },
   {

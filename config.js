@@ -3,7 +3,7 @@
 // sem isso o aparelho fica preso na cópia velha).
 var CONFIG = {
   NOME_APP: "Galle Builders",
-  VERSAO: "0.2.2-onda3",
+  VERSAO: "0.2.3-onda3",
   // Rótulos das funções das peças (valores de "funcao" nos JSON). Valor desconhecido: ver rotuloFuncao().
   FUNCOES: {
     viga: "Viga", eixo: "Eixo", pino: "Pino", conector: "Conector", engrenagem: "Engrenagem", roda: "Roda",
